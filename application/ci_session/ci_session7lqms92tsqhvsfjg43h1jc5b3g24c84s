@@ -1,0 +1,248 @@
+__ci_last_regenerate|i:1735554771;sub_menu_list|a:14:{i:0;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:1:"3";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:60:"IFRS, Ind AS, US GAAP Advisory, Implementation and Reporting";}i:1;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:1:"5";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:30:"Applications and Registrations";}i:2;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:1:"7";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:15:" Internal Audit";}i:3;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:2:"13";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:15:"Forensic Audit ";}i:4;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:2:"14";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:33:" Management and Propriety Audit  ";}i:5;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:2:"15";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:26:"  Information System Audit";}i:6;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:2:"16";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:13:"Certification";}i:7;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:2:"17";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:63:"Book Keeping Domestic and International Transactions Accounting";}i:8;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:2:"18";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:22:"Regulatory Compliances";}i:9;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:2:"19";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:35:"Preparation of financial statements";}i:10;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:2:"22";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:31:"Compliances And Return Fillings";}i:11;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:2:"23";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:13:" Tax advisory";}i:12;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:2:"24";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:6:"Audits";}i:13;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:2:"31";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:15:"Statutory Audit";}}main_menu|a:6:{i:0;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:13:"Risk Advisory";}i:1;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:25:"Business Support Services";}i:2;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:8:"Taxation";}i:3;O:8:"stdClass":3:{s:14:"main_header_id";s:2:"10";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:22:"Assurance and Advisory";}i:4;O:8:"stdClass":3:{s:14:"main_header_id";s:2:"11";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:9:"Gift City";}i:5;O:8:"stdClass":3:{s:14:"main_header_id";s:2:"12";s:9:"on_screen";N;s:16:"main_header_name";N;}}contact_data|a:1:{i:0;O:8:"stdClass":6:{s:10:"contact_id";s:1:"1";s:6:"mobile";s:10:"9313412477";s:8:"email_id";s:27:"info@parikhandassociates.in";s:7:"address";s:97:"308, Akshar Stadia, Opp Symphony House, Sterling Cancer Hospital Road, Bodakdev, Ahmedabad-380054";s:12:"about_comany";s:127:"PARIKH & ASSOCIATES is a Chartered Accountancy Firm in Ahmedabad offering a full suite of professional services under one roof.";s:11:"contact_map";s:422:"<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7343.237718757442!2d72.50003632219396!3d23.037762539781244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b4420f7653f%3A0x2ffa9484e7788592!2sParikh%20%26%20Associates!5e0!3m2!1sen!2sin!4v1593421961778!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></p>
+";}}join_detail|a:33:{i:0;O:8:"stdClass":9:{s:6:"req_id";s:1:"1";s:8:"fullname";s:15:"Harshal Narwani";s:8:"email_id";s:24:"harshalnarwani@gmail.com";s:6:"mobile";s:10:"8511362228";s:3:"add";s:68:"Plot No: 'amar Lakshmi', Plot No 1244, Tv Center Road, Ghogha Circle";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:1661:"Sir/Ma'am
+
+
+I would like to express my interest in joining your organization.
+
+
+As a person having a pragmatic and disciplinary approach, with good communication skills and team work qualities, I believe I could fit right into your team. I am familiar with your International Relations and Global presence, and I believe that my willingness to travel makes me suitable for your company.
+
+
+I'm a Chartered Accountant from Institute of Chartered Accountants of India and Bachelor of Commerce from Gujarat University. I have broad experience of more than Six years in the field of Auditing and Assurance including more than Three Years of experience in Statutory Central Audit of a Nationalized Bank, attending various branches of the bank with big ticket advances, regional offices, various central office departments like Treasury - Domestic, Balance Sheet Management, Large Corporate, NPA provisioning, PCD - Agriculture, General Administration etc, including process of finalizing final accounts of the bank. 
+
+Currently, I’m pursuing Global MBA in Global Finance from SP Jain School of Global Management. The course consists of studying at three international locations i.e. Dubai, Sydney and Singapore for about 4 months each. My Dubai term has just ended however; Sydney term has deferred for indefinite period due to COVID – 19 situations. I commit that if the opportunity is given, I WILL NOT leave the employment for finishing my MBA program as I already am a Chartered Accountant. 
+
+
+Attaching my detailed CV herewith
+
+
+Look forward to hearing from you.
+
+
+Regards,
+
+Harshal Narwani
++91 8511362228
+harshalnarwani@gmail.com
+
+";s:9:"file_data";s:36:"Harshal Narwani Curriculum Vitae.pdf";}i:1;O:8:"stdClass":9:{s:6:"req_id";s:1:"2";s:8:"fullname";s:13:"Khushbu Badai";s:8:"email_id";s:18:"khushb91@gmail.com";s:6:"mobile";s:10:"7506851613";s:3:"add";s:61:"203, Shreeji Villa Appartment, Shyamal Cross Roads, Ahmedabad";s:7:"grouped";s:2:"CA";s:3:"exp";s:6:"3 Year";s:3:"msg";s:166:"I cleared CA in 2017. Since then, I have worked in two CA firms in the field of Audit and Taxation. I have majorly experience in Internal Audit and Indirect Taxation.";s:9:"file_data";s:26:"Resume - Khushbu Badai.pdf";}i:2;O:8:"stdClass":9:{s:6:"req_id";s:1:"3";s:8:"fullname";s:13:"Vandana Saini";s:8:"email_id";s:24:"cavandanasaini@gmail.com";s:6:"mobile";s:10:"7017742881";s:3:"add";s:34:"Shastri Nagar Meerut Uttar Pradesh";s:7:"grouped";s:2:"CA";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:124:"Qualified in Jan 2020. Completed CA Articleship in April 2020.
+Currently working in TCS as SAP FICO- functional consultant.";s:9:"file_data";s:26:"Vandana Resume Final 2.pdf";}i:3;O:8:"stdClass":9:{s:6:"req_id";s:1:"4";s:8:"fullname";s:26:"SHREYANS JAYENDRABHAI SHAH";s:8:"email_id";s:26:"shahshreyansh052@gmail.com";s:6:"mobile";s:10:"8866896737";s:3:"add";s:20:"59 KANTIPARK SOCIETY";s:7:"grouped";s:2:"CA";s:3:"exp";s:6:"1 Year";s:3:"msg";s:16:"I am holding COP";s:9:"file_data";s:24:"CA Shreyans - Resume.pdf";}i:4;O:8:"stdClass":9:{s:6:"req_id";s:1:"5";s:8:"fullname";s:28:"Rahul Chandra prakash pipara";s:8:"email_id";s:19:"rjain8233@gmail.com";s:6:"mobile";s:10:"7990532976";s:3:"add";s:19:"CHANGODAR AHMEDABAD";s:7:"grouped";s:2:"CA";s:3:"exp";s:6:"2 Year";s:3:"msg";s:77:"I am looking for an opportunity, If you have any vacancy please let me know..";s:9:"file_data";s:10:"Resume.pdf";}i:5;O:8:"stdClass":9:{s:6:"req_id";s:1:"6";s:8:"fullname";s:10:"RONIT JAIN";s:8:"email_id";s:22:"jainronitssg@gmail.com";s:6:"mobile";s:10:"7692009178";s:3:"add";s:10:"Man bhavan";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:373:"Dear sir/mam
+
+Greetings of the day!  
+
+I with due respect hereby request you to provide me an opportunity to explore myself as CS Trainee in your company. The resume is annexed herewith for your perusal.
+I have given CS Professional exams recently.
+
+Please find an attachment.
+
+Thanks & Regards
+Yours sincerely 
+Ronit Jain
+M:7692009178
+E:jainronitssg@gmail.com";s:9:"file_data";s:17:"ronit jain cv.pdf";}i:6;O:8:"stdClass":9:{s:6:"req_id";s:1:"7";s:8:"fullname";s:12:"Dhaval Patel";s:8:"email_id";s:23:"dhaval.adlabs@gmail.com";s:6:"mobile";s:10:"9879847564";s:3:"add";s:27:"Naranpura, Ahmedabad-380013";s:7:"grouped";s:5:"Other";s:3:"exp";s:8:"11+ Year";s:3:"msg";s:436:"I have 7 years of experience in Commercial & Media planning of of Ambient spaces for agencies such as Publicis Group, Dentsu Group, Omnicom Media Group, Madison Media and direct clients such as Essilor, across India.
+
+I have 7 years of experience in Operation & Client servicing of Reliance Media Works Ltd India.Currently with a Cinema circuit of 450 + screens spread across 100+ properties covering 100+ cities across the country.  ";s:9:"file_data";s:16:"Dhaval Patel.pdf";}i:7;O:8:"stdClass":9:{s:6:"req_id";s:1:"8";s:8:"fullname";s:11:"Aagam Mehta";s:8:"email_id";s:18:"aagamm07@gmail.com";s:6:"mobile";s:10:"8160249586";s:3:"add";s:39:"Regent Residency, Pal, Surat - 395 009.";s:7:"grouped";s:2:"CA";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:369:"Respected sir/madam,
+
+I have recently completed my Chartered Accountancy and I am currently looking to apply my knowledge and skills in an organization of repute like yours.
+
+Please take a minute to go through the attached CV for your consideration. It would be a pleasure if I can hear back from you regarding my job application.
+
+ Sincerely,
+  
+ Aagam Mehta
+";s:9:"file_data";s:18:"aagamresume(1).pdf";}i:8;O:8:"stdClass":9:{s:6:"req_id";s:1:"9";s:8:"fullname";s:24:"CHIRAG SHANTILAL SARAIYA";s:8:"email_id";s:21:"chiragss880@gmail.com";s:6:"mobile";s:10:"9537577061";s:3:"add";s:55:"49 VRAJVALLBHPURA OPP ARVIND MILL NARODA ROAD AHMEDABAD";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:47:"I have already emailed to  your firm 2 days ago";s:9:"file_data";s:24:"CV_2021-08-12-123900.pdf";}i:9;O:8:"stdClass":9:{s:6:"req_id";s:2:"10";s:8:"fullname";s:12:"Delawala Jay";s:8:"email_id";s:21:"delawala252@gmail.com";s:6:"mobile";s:10:"9327098280";s:3:"add";s:19:"Darbar naka, Halvad";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:27:"Application for Articleship";s:9:"file_data";s:15:"Jay.Resume5.pdf";}i:10;O:8:"stdClass":9:{s:6:"req_id";s:2:"11";s:8:"fullname";s:12:"Nisha Pandit";s:8:"email_id";s:23:"nishapandit19@gmail.com";s:6:"mobile";s:10:"9726311757";s:3:"add";s:9:"Ahmedabad";s:7:"grouped";s:5:"Other";s:3:"exp";s:6:"8 Year";s:3:"msg";s:35:"Looking for Managerial designation.";s:9:"file_data";s:10:"Resume.pdf";}i:11;O:8:"stdClass":9:{s:6:"req_id";s:2:"12";s:8:"fullname";s:12:"Delawala Jay";s:8:"email_id";s:21:"delawala252@gmail.com";s:6:"mobile";s:10:"9327098280";s:3:"add";s:35:"Kansara street, Darbar naka, Halvad";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:107:"I have cleared intermediate first group and given exam for second group in may 22. Looking for Articleship.";s:9:"file_data";s:16:"Jay.Resume11.pdf";}i:12;O:8:"stdClass":9:{s:6:"req_id";s:2:"13";s:8:"fullname";s:12:"Anurag Dutta";s:8:"email_id";s:23:"caanuragdutta@gmail.com";s:6:"mobile";s:10:"9352800128";s:3:"add";s:35:"4E-339 JNV Colony Bikaner Rajasthan";s:7:"grouped";s:2:"CA";s:3:"exp";s:6:"1 Year";s:3:"msg";s:56:"Looking for opportunity in field of Finance or Taxation.";s:9:"file_data";s:17:"Resume_Anurag.pdf";}i:13;O:8:"stdClass":9:{s:6:"req_id";s:2:"14";s:8:"fullname";s:13:"jagdish nagar";s:8:"email_id";s:20:"jnagar1997@gmail.com";s:6:"mobile";s:10:"8700135926";s:3:"add";s:4:"kota";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:621:"Company Secretary (CS) trainee
+Dear Reader,
+
+My name is Jagdish Nagar and I'm emailing you to ask about a potential interning opportunity for a CS management trainee at your organization. I'm a Company Secretary professional level student (eligible for 21 Months of training) and am looking to gain experience in my field and learn more about this industry. I already have experience of around 1 Year in a related field.
+
+Hereby I am attaching my Resume for your reference.
+
+You can reach me via email or on my cell phone at 8700135926
+
+Thank you so much for your time. I really look forward to hearing from you.";s:9:"file_data";s:38:"Jagdish Nagar Resume for CS Intern.pdf";}i:14;O:8:"stdClass":9:{s:6:"req_id";s:2:"15";s:8:"fullname";s:12:"Jaydeep Ojha";s:8:"email_id";s:23:"jaydeepojha99@gmail.com";s:6:"mobile";s:10:"8824451183";s:3:"add";s:24:"Prahlad nagar, Ahmedabad";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:329:"Respected Sir / Madam
+
+I hope you are doing well
+
+Myself Jaydeep Ojha . I have completed B.Com. in 2022. Recently I am looking for job but i am a fresher student and i will assure you will never regret for the decision to hire me.
+Please give me my feedback as soon as possible.
+
+Thank You
+
+Yours Sincerely
+Jaydeep Ojha";s:9:"file_data";s:26:"jaydeepojha01CMA INTER.pdf";}i:15;O:8:"stdClass":9:{s:6:"req_id";s:2:"16";s:8:"fullname";s:16:"Divyanshu gandhi";s:8:"email_id";s:24:"gandhidivy6866@gmail.com";s:6:"mobile";s:10:"9978196866";s:3:"add";s:37:"Rajendra park, odhav, nh8, ahmedabad ";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:36:"Nov 22 intermediate result awaiting ";s:9:"file_data";s:24:"Divyanshu Article CV.pdf";}i:16;O:8:"stdClass":9:{s:6:"req_id";s:2:"17";s:8:"fullname";s:13:"Vatsal Gandhi";s:8:"email_id";s:23:"vatsaljain169@gmail.com";s:6:"mobile";s:10:"7737971306";s:3:"add";s:10:"Ahmedabad ";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:11:"CA fresher ";s:9:"file_data";s:23:"CV_2022121419274657.pdf";}i:17;O:8:"stdClass":9:{s:6:"req_id";s:2:"18";s:8:"fullname";s:15:"Vaishali Mistry";s:8:"email_id";s:28:"vaishali.vm.mistry@gmail.com";s:6:"mobile";s:10:"8898416750";s:3:"add";s:16:"Bhayander (West)";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:170:"I am Vaishali Mistry. Looking for the Articleship. I request you to kindly inform me if any vacancy available for me.
+
+Hoping to get a positive response from your side.";s:9:"file_data";s:22:"CV_VAISHALI MISTRY.pdf";}i:18;O:8:"stdClass":9:{s:6:"req_id";s:2:"19";s:8:"fullname";s:15:"Ruchi Prajapati";s:8:"email_id";s:27:"prajapatiruchi828@gmail.com";s:6:"mobile";s:10:"9727542447";s:3:"add";s:24:"katargam, vedroad, surat";s:7:"grouped";s:5:"Other";s:3:"exp";s:6:"2 Year";s:3:"msg";s:1059:"I am a business lawyer with a strong focus on international contract drafting and enforcement. I have completed a diploma in International Contract Drafting and Enforcement, as well as a Bachelor's degree in Laws. My expertise lies in navigating complex legal issues related to business transactions, ensuring the legality and enforceability of contracts on an international scale. 
+In addition to my specialization in international contract drafting and enforcement, I have valuable experience in litigation. I have worked on various legal disputes, representing clients in court proceedings and advocating for their rights and interests. This experience has given me a comprehensive understanding of the litigation process and the ability to strategize and present compelling arguments in complex legal cases. By combining my expertise in contract law with my litigation experience, I offer a well-rounded perspective and can provide comprehensive legal solutions to clients, whether they require contract drafting, enforcement, or representation in court.";s:9:"file_data";s:33:"Resume_10_06_2023_07_43_43_PM.pdf";}i:19;O:8:"stdClass":9:{s:6:"req_id";s:2:"20";s:8:"fullname";s:12:"GAURAV GUPTA";s:8:"email_id";s:26:"VARSHNEYGAURAV00@GMAIL.COM";s:6:"mobile";s:10:"9784707703";s:3:"add";s:36:"10/159 GUPTA BHAWAN AJMER RAJASTHAN ";s:7:"grouped";s:2:"CA";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:126:"Worked at PWC-Mumbai as Article Assistant.
+Want to get  overall exposure of all the services provided by your organization.
+";s:9:"file_data";s:22:"Resume_GauravGupta.pdf";}i:20;O:8:"stdClass":9:{s:6:"req_id";s:2:"21";s:8:"fullname";s:19:"Sanjoy Chakraborty ";s:8:"email_id";s:24:"sanjoy.c@sumeruglobal.in";s:6:"mobile";s:10:"8548053823";s:3:"add";s:39:"Panskura, Purba Medinipur, West Bengal ";s:7:"grouped";s:5:"Other";s:3:"exp";s:6:"1 Year";s:3:"msg";s:55:"I want to join with you and give to some helping hand  ";s:9:"file_data";s:33:"Sumeru Global_Company Profile.pdf";}i:21;O:8:"stdClass":9:{s:6:"req_id";s:2:"22";s:8:"fullname";s:13:"Apurv Paliwal";s:8:"email_id";s:24:"paliwalapurv39@gmail.com";s:6:"mobile";s:10:"8602578064";s:3:"add";s:37:"Kokonut Heights Indore Madhya Pradesh";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:588:"Dear Sir
+
+I have recently cleared CA Intermediate both groups and completed ITT and OC.
+I am looking forward for articleship in your esteemed organisation.
+
+I will be specialising in Audit, Taxation,Finance,etc as part of the course, which would give me better perspective of my function as article trainee.
+
+Ready to join immediately (within 8 days of selection) 
+
+I am attaching my CV along with this mail .
+I will be obliged if you can arrange articleship opportunity for me .
+
+
+Hoping to get a positive response from your side.
+
+Thanking you 
+
+Regards 
+Apurv Paliwal";s:9:"file_data";s:12:"Apurv_CV.pdf";}i:22;O:8:"stdClass":9:{s:6:"req_id";s:2:"23";s:8:"fullname";s:16:"MohdSoyeb A Vora";s:8:"email_id";s:20:"soyeb.vora@gmail.com";s:6:"mobile";s:10:"9974160486";s:3:"add";s:43:"17- Tavakkal soc, sarkhej, Ahmedabad-380051";s:7:"grouped";s:5:"Other";s:3:"exp";s:8:"11+ Year";s:3:"msg";s:66:"Applied For Audit Manager Position, Reference to Mail from Indeed.";s:9:"file_data";s:15:"Soyeb Vora1.pdf";}i:23;O:8:"stdClass":9:{s:6:"req_id";s:2:"24";s:8:"fullname";s:14:"RAHUL CHOUHAN ";s:8:"email_id";s:29:"rahulchouhan1852000@gmail.com";s:6:"mobile";s:10:"9694902669";s:3:"add";s:21:"Nana,pali, Rajasthan ";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:86:"Kya main aapke sath work kar skta hu I am post graduate in art with geography subject ";s:9:"file_data";s:13:"My resume.pdf";}i:24;O:8:"stdClass":9:{s:6:"req_id";s:2:"25";s:8:"fullname";s:18:"Siddharth Rathore ";s:8:"email_id";s:29:"siddharthrathore147@gmail.com";s:6:"mobile";s:10:"7990255585";s:3:"add";s:61:"F-102 Bhakti Enclave Nr.Bhakti Circle,Nikol,Ahmedabad -382350";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:56:"Looking for Articleship .
+Got reference from Deep Patel";s:9:"file_data";s:21:"Siddharth _Resume.pdf";}i:25;O:8:"stdClass":9:{s:6:"req_id";s:2:"26";s:8:"fullname";s:13:"Deep Thakkar ";s:8:"email_id";s:25:"deepthakkar0224@gmail.com";s:6:"mobile";s:10:"9979363073";s:3:"add";s:36:"38, yash vihar, amabji neliyu, patan";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:40:"Area of interest : Taxation and finance ";s:9:"file_data";s:15:"resume deep.pdf";}i:26;O:8:"stdClass":9:{s:6:"req_id";s:2:"27";s:8:"fullname";s:11:"JANAK VAMJA";s:8:"email_id";s:23:"janakvamja999@gmail.com";s:6:"mobile";s:10:"7046733002";s:3:"add";s:14:"Tankara, morbi";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:1:".";s:9:"file_data";s:14:"cv new (1).pdf";}i:27;O:8:"stdClass":9:{s:6:"req_id";s:2:"28";s:8:"fullname";s:16:"Sharad limbasiya";s:8:"email_id";s:24:"sharadpatel343@gmail.com";s:6:"mobile";s:10:"8128411350";s:3:"add";s:53:"Alka park-4, raghuvir main road, kuvadava road,rajkot";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:24:"Seeking for articleship ";s:9:"file_data";s:10:"Resume.pdf";}i:28;O:8:"stdClass":9:{s:6:"req_id";s:2:"29";s:8:"fullname";s:16:"Sharad limbasiya";s:8:"email_id";s:24:"sharadpatel343@gmail.com";s:6:"mobile";s:10:"8128411350";s:3:"add";s:53:"Alka park-4, raghuvir main road, kuvadava road,rajkot";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:24:"Seeking for articleship ";s:9:"file_data";s:10:"Resume.pdf";}i:29;O:8:"stdClass":9:{s:6:"req_id";s:2:"30";s:8:"fullname";s:13:"Khushi Patwa ";s:8:"email_id";s:25:"khushipatwa1604@gmail.com";s:6:"mobile";s:10:"9575941689";s:3:"add";s:43:"Jain colony, mahaveer ganj, piplia mandi,  ";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:288:"I have cleared my ca Intermediate in first attempt, along with CA foundation. I scored 95% in 12th standard and 92% in 10th standard. I also represented my school in state level football tournament 3 time, along with participation in various public speaking events and national olympaids.";s:9:"file_data";s:23:"Khushi_patwa_resume.pdf";}i:30;O:8:"stdClass":9:{s:6:"req_id";s:2:"31";s:8:"fullname";s:14:"Priyanshi Jain";s:8:"email_id";s:20:"prynshi123@gmail.com";s:6:"mobile";s:10:"7987934909";s:3:"add";s:42:"Nakoda dudh dairy, Naya Bazar, Maksi, M.P.";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:313:"Dear Sir/Ma'am,
+I hope you had a great day so far.
+I hereby, would like to inform you that I am a CA Student looking for a CA Articleship opportunity in your Company.
+I request you to kindly inform me if any vacancy is available for me.
+
+Looking forward to hearing from you.
+
+Your sincerely
+Priyanshi Jain";s:9:"file_data";s:18:"PRIYANSHI JAIN.pdf";}i:31;O:8:"stdClass":9:{s:6:"req_id";s:2:"32";s:8:"fullname";s:24:"Solanki Jaykumar Bhaidas";s:8:"email_id";s:19:"jays30072@gmail.com";s:6:"mobile";s:10:"9925976313";s:3:"add";s:45:"Om Shayona Arcade, Nr. Silver Oak University.";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:70:"I have cleared CA INTERMEDIATE both group in first attempt in Nov. 23.";s:9:"file_data";s:14:"Resume Jay.pdf";}i:32;O:8:"stdClass":9:{s:6:"req_id";s:2:"33";s:8:"fullname";s:13:"Devarsh Jagad";s:8:"email_id";s:24:"Devarshjagad@outlook.com";s:6:"mobile";s:10:"9825628075";s:3:"add";s:26:"B-14, Orchid white field, ";s:7:"grouped";s:2:"CA";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:214:"I am a recently qualified Chartered Accountant (November 2023) with experience in Auditing and Assurance. 
+
+I have attached my resume for your review. I am available for an interview at your earliest convenience.";s:9:"file_data";s:10:"Resume.pdf";}}slider_data|a:2:{i:0;O:8:"stdClass":5:{s:9:"slider_id";s:1:"2";s:9:"on_screen";s:1:"Y";s:12:"slider_title";s:24:"Business Support Service";s:11:"description";s:127:"A range of business financial services, from auditing the expenses to Identifying compliance gaps to suggest Unbeaten Measures.";s:10:"slider_img";s:11:"slider2.jpg";}i:1;O:8:"stdClass":5:{s:9:"slider_id";s:1:"4";s:9:"on_screen";s:1:"Y";s:12:"slider_title";s:8:"Taxation";s:11:"description";s:124:"Precise, Proficient and Approachable taxation services to the Business Community and all the Taxpayers on a Sustained Basis.";s:10:"slider_img";s:11:"slider4.jpg";}}services|a:14:{i:0;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:15:" Internal Audit";s:10:"servise_id";s:2:"13";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:1:"7";s:17:"short_description";s:118:"Internal Audit is an ideal tool to lessen gaps and loopholes between the varied business processes and execution..... ";s:11:"description";s:250:"<p><strong>Internal Audit</strong> is an ideal tool to lessen gaps and loopholes between the varied business processes and execution strategies of an entity in different commonplace office functions such as HR, Finance, Risk and Statutory compliances";s:11:"small_image";s:6:"s4.jpg";s:10:"long_image";s:12:"internal.jpg";}i:1;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:15:"Forensic Audit ";s:10:"servise_id";s:2:"16";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"13";s:17:"short_description";s:99:"Forensic auditors or say forensic accountants own the special skills to document & detect fraud. ..";s:11:"description";s:250:"<h3>What is Forensic Audit</h3>
+
+<p>Actually, the term <strong>forensic Audit</strong> is not defined anywhere.&nbsp;Though there is a minute difference in the two concepts, normally, forensic accounting is used as the synonym to the forensic audit";s:11:"small_image";s:6:"s4.jpg";s:10:"long_image";s:18:"forensic_audit.jpg";}i:2;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:33:" Management and Propriety Audit  ";s:10:"servise_id";s:2:"17";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"14";s:17:"short_description";s:99:"The focus of Propriety Audit is on the efficiency, the authority structure, rules and regulations..";s:11:"description";s:250:"<p>The focus of <strong>Propriety Audit </strong>is on the efficiency, the authority structure, rules and regulations and monetary discipline as well as the protection of public interest. Propriety audit is all about the making the actions and the de";s:11:"small_image";s:7:"s22.jpg";s:10:"long_image";s:19:"managment_audit.jpg";}i:3;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:26:"  Information System Audit";s:10:"servise_id";s:2:"18";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"15";s:17:"short_description";s:101:"Today, Information technology is a vital part of all the business operations. In order to operate....";s:11:"description";s:250:"<p>Today, Information technology is a vital part of all the business operations. In order to operate, almost every part of the business relies on technology and networks. There are so many benefits of this exciting and rewarding field of <strong>info";s:11:"small_image";s:7:"s23.jpg";s:10:"long_image";s:15:"information.jpg";}i:4;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:13:"Certification";s:10:"servise_id";s:2:"19";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"16";s:17:"short_description";s:109:"At Parikh & Associates, we provide verification services by way of certification as it may be required.......";s:11:"description";s:196:"<p>At Parikh &amp; Associates, we provide verification services by way of certification as it may be required under law for the time being in force, prerequisite of the management or others.</p>
+";s:11:"small_image";s:8:"s213.jpg";s:10:"long_image";s:15:"certificate.jpg";}i:5;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:15:"Statutory Audit";s:10:"servise_id";s:2:"37";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"31";s:17:"short_description";s:133:"The reason of execution of the statutory audit is to verify all the processes in which a company spends the funds and earns profits. ";s:11:"description";s:250:"<p>The reason of execution of the <strong>statutory audit</strong> is to verify all the processes in which a company spends the funds and earns profits. The audit is also performed intending to observe the methods used for spending such money are in ";s:11:"small_image";s:7:"s31.jpg";s:10:"long_image";s:21:"statutory_audit17.jpg";}i:6;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:60:"IFRS, Ind AS, US GAAP Advisory, Implementation and Reporting";s:10:"servise_id";s:2:"20";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:1:"3";s:17:"short_description";s:111:"IFRS stands for the International Financial Reporting Standards. It is the international accounting framework..";s:11:"description";s:250:"<p><strong>IFRS</strong> stands for the <strong>International Financial Reporting Standards</strong>. It is the international accounting framework to organize correctly as well as to report the financial information. IFRS is resultant term of the sta";s:11:"small_image";s:8:"s214.jpg";s:10:"long_image";s:13:"ifrs_gars.jpg";}i:7;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:63:"Book Keeping Domestic and International Transactions Accounting";s:10:"servise_id";s:2:"21";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:2:"17";s:17:"short_description";s:119:"An elementary of accounting is based on Book keeping. Bookkeeping refers to the maintenance of daily business records..";s:11:"description";s:250:"<p>An elementary of accounting is based on <strong>Book keeping.</strong> Book keeping refers to the maintenance of daily business records. It is the skill for recording financial transactions with the help of relevant documents and papers. Therefore";s:11:"small_image";s:7:"s12.jpg";s:10:"long_image";s:16:"book_keeping.jpg";}i:8;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:22:"Regulatory Compliances";s:10:"servise_id";s:2:"22";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:2:"18";s:17:"short_description";s:97:"Regulatory compliances guarantee an entity's devotion to rules, regulations, laws and policies...";s:11:"description";s:250:"<p><strong>Regulatory compliances</strong> guarantee an entity&#39;s devotion to rules, regulations, laws and policies. We know various laws administer an entity. We support an entity&#39;s aim to obey with relevant policies, laws, and regulations.</";s:11:"small_image";s:8:"s215.jpg";s:10:"long_image";s:15:"compliances.jpg";}i:9;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:35:"Preparation of financial statements";s:10:"servise_id";s:2:"23";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:2:"19";s:17:"short_description";s:122:"An entity prepares its financial statements willingly or as consent by the laws under which the entity is covered.........";s:11:"description";s:250:"<p>An entity prepares its financial statements willingly or as consent by the laws under which the entity is covered. Financial Statements shows the wellness of an entity.</p>
+
+<p>The team of the certified accountants produces all financial stateme";s:11:"small_image";s:8:"s216.jpg";s:10:"long_image";s:18:"financial_stmt.jpg";}i:10;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:30:"Applications and Registrations";s:10:"servise_id";s:2:"25";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:1:"5";s:17:"short_description";s:124:"Organizations, from lower market to the multinational firms are open to the elements to changing trends in tax regulations..";s:11:"description";s:250:"<p>Organizations, from lower market to the multinational firms are open to the elements to changing trends in tax regulations. Approach to tax is changing. Tax decisions are under amendment like never before.</p>
+
+<p>In this scenario, specialist ad";s:11:"small_image";s:12:"taxation.jpg";s:10:"long_image";s:15:"application.jpg";}i:11;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:31:"Compliances And Return Fillings";s:10:"servise_id";s:2:"26";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:2:"22";s:17:"short_description";s:112:"Indian tax law needs the strategic approach and a spectrum of ploys so that you are well placed for tax savings,";s:11:"description";s:250:"<p>Indian tax law needs the strategic approach and a spectrum of ploys so that you are well placed for tax savings.</p>
+
+<p><strong>You can have our services as follow:</strong></p>
+
+<ul>
+	<li>Replying to a range of Income Tax Notices</li>
+	<li";s:11:"small_image";s:8:"s217.jpg";s:10:"long_image";s:10:"return.jpg";}i:12;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:13:" Tax advisory";s:10:"servise_id";s:2:"27";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:2:"23";s:17:"short_description";s:109:"Parikh & Associates one of the leading tax advisory companies in Ahmedabad specializing in tax consultancy...";s:11:"description";s:250:"<p>Parikh &amp; Associates one of the leading tax advisory companies in Ahmedabad specializing in tax consultancy. We provide stepwise guidance for the pre and post introduction of GST. We understand the rules of competition and set high standards fo";s:11:"small_image";s:8:"s218.jpg";s:10:"long_image";s:16:"tax_advisory.jpg";}i:13;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:6:"Audits";s:10:"servise_id";s:2:"28";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:2:"24";s:17:"short_description";s:121:"We advise on planning of all the income tax related issues relating to Direct tax. We also provide services in relation..";s:11:"description";s:250:"<p>We advise on planning of all the income tax related issues relating to Direct tax. We also provide services in relation to Auditing under Incometax Act and the regulatory framework and issung report in prescribed formats.</p>
+
+<p>These services ";s:11:"small_image";s:8:"s219.jpg";s:10:"long_image";s:12:"auditing.jpg";}}child_menu_list|a:0:{}our_team|a:3:{i:0;O:8:"stdClass":13:{s:10:"profile_id";s:1:"4";s:9:"on_screen";s:1:"Y";s:9:"name_team";s:19:"CA Vedant K. Parikh";s:6:"mobile";s:10:"9427261777";s:8:"email_id";s:29:"vedant@parikhandassociates.in";s:11:"designetion";s:7:"Partner";s:17:"short_description";s:254:"Vedant K. Parikh, Managing Partner of the firm has
+experience of more than 8 years in the field of Bank Audit,
+Risk Based Internal Audit and Statutory Audit. His area of
+expertise includes Due Diligence Reporting, System Audit,
+Management Advisory...";s:11:"description";s:1331:"<p><strong>QUALIFICATIONS</strong></p>
+
+<p>(FCA, B.Com)</p>
+
+<p><strong>CERTIFICATIONS</strong></p>
+
+<p>Concurrent Bank Audit</p>
+
+<p>Forensic Accounting &amp;&nbsp;Fraud Detection</p>
+
+<p><strong>WORK EXPERIENCE</strong></p>
+
+<p>Vedant K. Parikh, Managing Partner of the firm has experience of more than 8 years. His area of expertise includes:</p>
+
+<ul>
+	<li><p>Bank Audit</p></li>
+	<li><p>Risk-Based Internal Audit</p></li>
+	<li><p>Due Diligence Reporting</p></li>
+	<li><p>System Audit</p></li>
+	<li><p>Statutory Audit</p></li>
+	<li><p>Management Advisory</p></li>
+</ul>
+
+<p>He has been duly appointed as Professional Director in Banking,
+Manufacturing and IT Industry Companies.
+</p>
+
+<p>He is also pursuing Diploma in System Audit (DISA) from Institute of
+Chartered Accountants of India (ICAI) and Valuation Course from
+Insolvency and Bankruptcy Board of India (IBBI).
+</p>
+
+<p>Vedant is an active member at Ahmedabad Branch of WIRC of ICAI and
+has been part of various committees of the Branch.</p>
+
+<p>Vedant has also been empaneled speaker of WIRC of ICAI and has
+taken webinars at various platforms including ICAI, Connect Easy, Maha
+Sewa, PDEXCIL and various private platforms involving participation of
+members from PAN India on the topics including Bank Audit, TDS and
+MSME.</p>
+";s:11:"profile_img";s:10:"team11.jpg";s:7:"fac_url";s:41:"https://www.facebook.com/vedant.parikh777";s:9:"twitr_url";s:33:"https://twitter.com/VedantKParikh";s:9:"insta_url";s:40:"https://www.instagram.com/vedantkparikh/";s:10:"linked_url";s:51:"https://www.linkedin.com/in/vedant-parikh-16267a98/";}i:1;O:8:"stdClass":13:{s:10:"profile_id";s:1:"5";s:9:"on_screen";s:1:"Y";s:9:"name_team";s:17:"CA Kamal Bhandari";s:6:"mobile";s:10:"9876543210";s:8:"email_id";s:27:"info@parikhandassociates.in";s:11:"designetion";s:7:"Partner";s:17:"short_description";s:249:"Taxation Partner of the firm, Kamal Bhandari, has a rich experience of working
+on various direct as well as indirect Tax assignments specializing into Tax
+Advisory and Compliances. His area of expertise includes analysis of Discrete tax
+issues...";s:11:"description";s:963:"<p><strong>QUALIFICATIONS</strong></p>
+
+<p>(ACA, B.Com)</p>
+
+<p><strong>WORK EXPERIENCE</strong></p>
+
+<p>Taxation Partner of the firm, Kamal Bhandari, has a rich experience of working
+on various direct as well as indirect Tax assignments specializing into Tax
+Advisory and Compliances. His area of expertise includes analysis of Discrete tax
+issues adhering to legal and regulatory framework.
+</p>
+
+<p>He was associated with a reputed Vadodara based CA Firm, JLN US & Co. in his
+initial phase of career where apart from handling various taxation assignments,
+he has gained expertise over varied other nature of assignments such as:</p>
+
+<ul>
+	<li>
+	<p>Due diligence of more than 150 customers,</p>
+	</li>
+	<li>
+	<p>Equity valuation of more than 100 delisted companies,</p>
+	</li>
+	<li>
+	<p>Third party vendor audits of over 80 Locations,</p>
+	</li>
+	<li>
+	<p>Transfer pricing,</p>
+	</li>
+	<li>
+	<p>Surveyor audit</p>
+	</li>
+</ul>
+";s:11:"profile_img";s:10:"team21.jpg";s:7:"fac_url";s:43:"https://www.facebook.com/kamal.bhandari.121";s:9:"twitr_url";s:35:"https://twitter.com/KamalBh77295983";s:9:"insta_url";s:39:"http://www.instagram.com/kamalmbhandari";s:10:"linked_url";s:52:"https://www.linkedin.com/in/kamal-bhandari-6b89bb112";}i:2;O:8:"stdClass":13:{s:10:"profile_id";s:1:"7";s:9:"on_screen";s:1:"Y";s:9:"name_team";s:17:"CA Jainam P. Shah";s:6:"mobile";s:10:"9429966332";s:8:"email_id";s:29:"jainam@parikhandassociates.in";s:11:"designetion";s:7:"Partner";s:17:"short_description";s:250:"Jainam Shah, Assurance and Advisory Partner of the firm has experience of
+more than 9 years in the field of audit and assurance specializing in
+manufacturing industry by handling multi-location statutory audits for
+multinational listed entities...";s:11:"description";s:1170:"<p><strong>QUALIFICATIONS</strong></p>
+
+<p>(FCA, DISA, B.Com)</p>
+
+<p><strong>CERTIFICATIONS</strong></p>
+
+<p>GST Practitioner Course (MSME Certified)</p>
+
+<p>Concurrent Audit of Banks (ICAI Certified)</p>
+
+<p><strong>WORK EXPERIENCE</strong></p>
+
+<p>Jainam Shah, Assurance and Advisory Partner of the firm has experience of
+more than 9 years in the field of audit and assurance specializing in
+manufacturing industry by handling multi-location statutory audits for
+multinational listed entities.</p>
+
+<p>He was associated with Deloitte Haskin & Sells as Deputy Manager in
+Assurance Division for more than 3 years. Apart from handling assurance
+assignments, he has gained expertise over varied other nature of
+assignments such as:</p>
+
+<ul>
+	<li>
+	<p>Limited Reviews</p>
+	</li>
+	<li>
+	<p>Ind AS Conversion Assignments</p>
+	</li>
+	<li>
+	<p>Designing of Risk Control Matrices</p>
+	</li>
+	<li>
+	<p>IND AS Conversion Assignment</p>
+	</li>
+<p>Designing of Standard Operating Procedures</p>
+	</li>
+	<li>
+	<p>Financial control Implementation and Reporting</p>
+	</li>
+	<li>
+	<p>US GAAP and IFRS Reporting Assignments</p>
+	</li>
+</ul>
+";s:11:"profile_img";s:10:"team31.jpg";s:7:"fac_url";s:105:"https://m.facebook.com/jainam.shah.9615/about?lst=100004016075901%3A100004016075901%3A1570900354&refid=17";s:9:"twitr_url";s:20:"https://twitter.com/";s:9:"insta_url";s:36:"https://www.instagram.com/jainam_279";s:10:"linked_url";s:48:"https://www.linkedin.com/in/jainam-shah-68b68a9a";}}blog_data|a:0:{}

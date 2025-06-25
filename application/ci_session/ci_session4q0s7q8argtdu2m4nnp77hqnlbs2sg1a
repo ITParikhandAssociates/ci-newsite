@@ -1,0 +1,435 @@
+__ci_last_regenerate|i:1735549191;sub_menu_list|a:14:{i:0;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:1:"3";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:60:"IFRS, Ind AS, US GAAP Advisory, Implementation and Reporting";}i:1;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:1:"5";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:30:"Applications and Registrations";}i:2;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:1:"7";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:15:" Internal Audit";}i:3;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:2:"13";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:15:"Forensic Audit ";}i:4;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:2:"14";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:33:" Management and Propriety Audit  ";}i:5;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:2:"15";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:26:"  Information System Audit";}i:6;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:2:"16";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:13:"Certification";}i:7;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:2:"17";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:63:"Book Keeping Domestic and International Transactions Accounting";}i:8;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:2:"18";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:22:"Regulatory Compliances";}i:9;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:2:"19";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:35:"Preparation of financial statements";}i:10;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:2:"22";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:31:"Compliances And Return Fillings";}i:11;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:2:"23";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:13:" Tax advisory";}i:12;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:2:"24";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:6:"Audits";}i:13;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:13:"Risk Advisory";s:11:"sub_menu_id";s:2:"31";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:15:"Statutory Audit";}}main_menu|a:5:{i:0;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:13:"Risk Advisory";}i:1;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:25:"Business Support Services";}i:2;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:8:"Taxation";}i:3;O:8:"stdClass":3:{s:14:"main_header_id";s:2:"10";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:22:"Assurance and Advisory";}i:4;O:8:"stdClass":3:{s:14:"main_header_id";s:2:"11";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:9:"Gift City";}}contact_data|a:1:{i:0;O:8:"stdClass":6:{s:10:"contact_id";s:1:"1";s:6:"mobile";s:10:"9313412477";s:8:"email_id";s:27:"info@parikhandassociates.in";s:7:"address";s:97:"308, Akshar Stadia, Opp Symphony House, Sterling Cancer Hospital Road, Bodakdev, Ahmedabad-380054";s:12:"about_comany";s:127:"PARIKH & ASSOCIATES is a Chartered Accountancy Firm in Ahmedabad offering a full suite of professional services under one roof.";s:11:"contact_map";s:422:"<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7343.237718757442!2d72.50003632219396!3d23.037762539781244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b4420f7653f%3A0x2ffa9484e7788592!2sParikh%20%26%20Associates!5e0!3m2!1sen!2sin!4v1593421961778!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></p>
+";}}join_detail|a:33:{i:0;O:8:"stdClass":9:{s:6:"req_id";s:1:"1";s:8:"fullname";s:15:"Harshal Narwani";s:8:"email_id";s:24:"harshalnarwani@gmail.com";s:6:"mobile";s:10:"8511362228";s:3:"add";s:68:"Plot No: 'amar Lakshmi', Plot No 1244, Tv Center Road, Ghogha Circle";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:1661:"Sir/Ma'am
+
+
+I would like to express my interest in joining your organization.
+
+
+As a person having a pragmatic and disciplinary approach, with good communication skills and team work qualities, I believe I could fit right into your team. I am familiar with your International Relations and Global presence, and I believe that my willingness to travel makes me suitable for your company.
+
+
+I'm a Chartered Accountant from Institute of Chartered Accountants of India and Bachelor of Commerce from Gujarat University. I have broad experience of more than Six years in the field of Auditing and Assurance including more than Three Years of experience in Statutory Central Audit of a Nationalized Bank, attending various branches of the bank with big ticket advances, regional offices, various central office departments like Treasury - Domestic, Balance Sheet Management, Large Corporate, NPA provisioning, PCD - Agriculture, General Administration etc, including process of finalizing final accounts of the bank. 
+
+Currently, I’m pursuing Global MBA in Global Finance from SP Jain School of Global Management. The course consists of studying at three international locations i.e. Dubai, Sydney and Singapore for about 4 months each. My Dubai term has just ended however; Sydney term has deferred for indefinite period due to COVID – 19 situations. I commit that if the opportunity is given, I WILL NOT leave the employment for finishing my MBA program as I already am a Chartered Accountant. 
+
+
+Attaching my detailed CV herewith
+
+
+Look forward to hearing from you.
+
+
+Regards,
+
+Harshal Narwani
++91 8511362228
+harshalnarwani@gmail.com
+
+";s:9:"file_data";s:36:"Harshal Narwani Curriculum Vitae.pdf";}i:1;O:8:"stdClass":9:{s:6:"req_id";s:1:"2";s:8:"fullname";s:13:"Khushbu Badai";s:8:"email_id";s:18:"khushb91@gmail.com";s:6:"mobile";s:10:"7506851613";s:3:"add";s:61:"203, Shreeji Villa Appartment, Shyamal Cross Roads, Ahmedabad";s:7:"grouped";s:2:"CA";s:3:"exp";s:6:"3 Year";s:3:"msg";s:166:"I cleared CA in 2017. Since then, I have worked in two CA firms in the field of Audit and Taxation. I have majorly experience in Internal Audit and Indirect Taxation.";s:9:"file_data";s:26:"Resume - Khushbu Badai.pdf";}i:2;O:8:"stdClass":9:{s:6:"req_id";s:1:"3";s:8:"fullname";s:13:"Vandana Saini";s:8:"email_id";s:24:"cavandanasaini@gmail.com";s:6:"mobile";s:10:"7017742881";s:3:"add";s:34:"Shastri Nagar Meerut Uttar Pradesh";s:7:"grouped";s:2:"CA";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:124:"Qualified in Jan 2020. Completed CA Articleship in April 2020.
+Currently working in TCS as SAP FICO- functional consultant.";s:9:"file_data";s:26:"Vandana Resume Final 2.pdf";}i:3;O:8:"stdClass":9:{s:6:"req_id";s:1:"4";s:8:"fullname";s:26:"SHREYANS JAYENDRABHAI SHAH";s:8:"email_id";s:26:"shahshreyansh052@gmail.com";s:6:"mobile";s:10:"8866896737";s:3:"add";s:20:"59 KANTIPARK SOCIETY";s:7:"grouped";s:2:"CA";s:3:"exp";s:6:"1 Year";s:3:"msg";s:16:"I am holding COP";s:9:"file_data";s:24:"CA Shreyans - Resume.pdf";}i:4;O:8:"stdClass":9:{s:6:"req_id";s:1:"5";s:8:"fullname";s:28:"Rahul Chandra prakash pipara";s:8:"email_id";s:19:"rjain8233@gmail.com";s:6:"mobile";s:10:"7990532976";s:3:"add";s:19:"CHANGODAR AHMEDABAD";s:7:"grouped";s:2:"CA";s:3:"exp";s:6:"2 Year";s:3:"msg";s:77:"I am looking for an opportunity, If you have any vacancy please let me know..";s:9:"file_data";s:10:"Resume.pdf";}i:5;O:8:"stdClass":9:{s:6:"req_id";s:1:"6";s:8:"fullname";s:10:"RONIT JAIN";s:8:"email_id";s:22:"jainronitssg@gmail.com";s:6:"mobile";s:10:"7692009178";s:3:"add";s:10:"Man bhavan";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:373:"Dear sir/mam
+
+Greetings of the day!  
+
+I with due respect hereby request you to provide me an opportunity to explore myself as CS Trainee in your company. The resume is annexed herewith for your perusal.
+I have given CS Professional exams recently.
+
+Please find an attachment.
+
+Thanks & Regards
+Yours sincerely 
+Ronit Jain
+M:7692009178
+E:jainronitssg@gmail.com";s:9:"file_data";s:17:"ronit jain cv.pdf";}i:6;O:8:"stdClass":9:{s:6:"req_id";s:1:"7";s:8:"fullname";s:12:"Dhaval Patel";s:8:"email_id";s:23:"dhaval.adlabs@gmail.com";s:6:"mobile";s:10:"9879847564";s:3:"add";s:27:"Naranpura, Ahmedabad-380013";s:7:"grouped";s:5:"Other";s:3:"exp";s:8:"11+ Year";s:3:"msg";s:436:"I have 7 years of experience in Commercial & Media planning of of Ambient spaces for agencies such as Publicis Group, Dentsu Group, Omnicom Media Group, Madison Media and direct clients such as Essilor, across India.
+
+I have 7 years of experience in Operation & Client servicing of Reliance Media Works Ltd India.Currently with a Cinema circuit of 450 + screens spread across 100+ properties covering 100+ cities across the country.  ";s:9:"file_data";s:16:"Dhaval Patel.pdf";}i:7;O:8:"stdClass":9:{s:6:"req_id";s:1:"8";s:8:"fullname";s:11:"Aagam Mehta";s:8:"email_id";s:18:"aagamm07@gmail.com";s:6:"mobile";s:10:"8160249586";s:3:"add";s:39:"Regent Residency, Pal, Surat - 395 009.";s:7:"grouped";s:2:"CA";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:369:"Respected sir/madam,
+
+I have recently completed my Chartered Accountancy and I am currently looking to apply my knowledge and skills in an organization of repute like yours.
+
+Please take a minute to go through the attached CV for your consideration. It would be a pleasure if I can hear back from you regarding my job application.
+
+ Sincerely,
+  
+ Aagam Mehta
+";s:9:"file_data";s:18:"aagamresume(1).pdf";}i:8;O:8:"stdClass":9:{s:6:"req_id";s:1:"9";s:8:"fullname";s:24:"CHIRAG SHANTILAL SARAIYA";s:8:"email_id";s:21:"chiragss880@gmail.com";s:6:"mobile";s:10:"9537577061";s:3:"add";s:55:"49 VRAJVALLBHPURA OPP ARVIND MILL NARODA ROAD AHMEDABAD";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:47:"I have already emailed to  your firm 2 days ago";s:9:"file_data";s:24:"CV_2021-08-12-123900.pdf";}i:9;O:8:"stdClass":9:{s:6:"req_id";s:2:"10";s:8:"fullname";s:12:"Delawala Jay";s:8:"email_id";s:21:"delawala252@gmail.com";s:6:"mobile";s:10:"9327098280";s:3:"add";s:19:"Darbar naka, Halvad";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:27:"Application for Articleship";s:9:"file_data";s:15:"Jay.Resume5.pdf";}i:10;O:8:"stdClass":9:{s:6:"req_id";s:2:"11";s:8:"fullname";s:12:"Nisha Pandit";s:8:"email_id";s:23:"nishapandit19@gmail.com";s:6:"mobile";s:10:"9726311757";s:3:"add";s:9:"Ahmedabad";s:7:"grouped";s:5:"Other";s:3:"exp";s:6:"8 Year";s:3:"msg";s:35:"Looking for Managerial designation.";s:9:"file_data";s:10:"Resume.pdf";}i:11;O:8:"stdClass":9:{s:6:"req_id";s:2:"12";s:8:"fullname";s:12:"Delawala Jay";s:8:"email_id";s:21:"delawala252@gmail.com";s:6:"mobile";s:10:"9327098280";s:3:"add";s:35:"Kansara street, Darbar naka, Halvad";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:107:"I have cleared intermediate first group and given exam for second group in may 22. Looking for Articleship.";s:9:"file_data";s:16:"Jay.Resume11.pdf";}i:12;O:8:"stdClass":9:{s:6:"req_id";s:2:"13";s:8:"fullname";s:12:"Anurag Dutta";s:8:"email_id";s:23:"caanuragdutta@gmail.com";s:6:"mobile";s:10:"9352800128";s:3:"add";s:35:"4E-339 JNV Colony Bikaner Rajasthan";s:7:"grouped";s:2:"CA";s:3:"exp";s:6:"1 Year";s:3:"msg";s:56:"Looking for opportunity in field of Finance or Taxation.";s:9:"file_data";s:17:"Resume_Anurag.pdf";}i:13;O:8:"stdClass":9:{s:6:"req_id";s:2:"14";s:8:"fullname";s:13:"jagdish nagar";s:8:"email_id";s:20:"jnagar1997@gmail.com";s:6:"mobile";s:10:"8700135926";s:3:"add";s:4:"kota";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:621:"Company Secretary (CS) trainee
+Dear Reader,
+
+My name is Jagdish Nagar and I'm emailing you to ask about a potential interning opportunity for a CS management trainee at your organization. I'm a Company Secretary professional level student (eligible for 21 Months of training) and am looking to gain experience in my field and learn more about this industry. I already have experience of around 1 Year in a related field.
+
+Hereby I am attaching my Resume for your reference.
+
+You can reach me via email or on my cell phone at 8700135926
+
+Thank you so much for your time. I really look forward to hearing from you.";s:9:"file_data";s:38:"Jagdish Nagar Resume for CS Intern.pdf";}i:14;O:8:"stdClass":9:{s:6:"req_id";s:2:"15";s:8:"fullname";s:12:"Jaydeep Ojha";s:8:"email_id";s:23:"jaydeepojha99@gmail.com";s:6:"mobile";s:10:"8824451183";s:3:"add";s:24:"Prahlad nagar, Ahmedabad";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:329:"Respected Sir / Madam
+
+I hope you are doing well
+
+Myself Jaydeep Ojha . I have completed B.Com. in 2022. Recently I am looking for job but i am a fresher student and i will assure you will never regret for the decision to hire me.
+Please give me my feedback as soon as possible.
+
+Thank You
+
+Yours Sincerely
+Jaydeep Ojha";s:9:"file_data";s:26:"jaydeepojha01CMA INTER.pdf";}i:15;O:8:"stdClass":9:{s:6:"req_id";s:2:"16";s:8:"fullname";s:16:"Divyanshu gandhi";s:8:"email_id";s:24:"gandhidivy6866@gmail.com";s:6:"mobile";s:10:"9978196866";s:3:"add";s:37:"Rajendra park, odhav, nh8, ahmedabad ";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:36:"Nov 22 intermediate result awaiting ";s:9:"file_data";s:24:"Divyanshu Article CV.pdf";}i:16;O:8:"stdClass":9:{s:6:"req_id";s:2:"17";s:8:"fullname";s:13:"Vatsal Gandhi";s:8:"email_id";s:23:"vatsaljain169@gmail.com";s:6:"mobile";s:10:"7737971306";s:3:"add";s:10:"Ahmedabad ";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:11:"CA fresher ";s:9:"file_data";s:23:"CV_2022121419274657.pdf";}i:17;O:8:"stdClass":9:{s:6:"req_id";s:2:"18";s:8:"fullname";s:15:"Vaishali Mistry";s:8:"email_id";s:28:"vaishali.vm.mistry@gmail.com";s:6:"mobile";s:10:"8898416750";s:3:"add";s:16:"Bhayander (West)";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:170:"I am Vaishali Mistry. Looking for the Articleship. I request you to kindly inform me if any vacancy available for me.
+
+Hoping to get a positive response from your side.";s:9:"file_data";s:22:"CV_VAISHALI MISTRY.pdf";}i:18;O:8:"stdClass":9:{s:6:"req_id";s:2:"19";s:8:"fullname";s:15:"Ruchi Prajapati";s:8:"email_id";s:27:"prajapatiruchi828@gmail.com";s:6:"mobile";s:10:"9727542447";s:3:"add";s:24:"katargam, vedroad, surat";s:7:"grouped";s:5:"Other";s:3:"exp";s:6:"2 Year";s:3:"msg";s:1059:"I am a business lawyer with a strong focus on international contract drafting and enforcement. I have completed a diploma in International Contract Drafting and Enforcement, as well as a Bachelor's degree in Laws. My expertise lies in navigating complex legal issues related to business transactions, ensuring the legality and enforceability of contracts on an international scale. 
+In addition to my specialization in international contract drafting and enforcement, I have valuable experience in litigation. I have worked on various legal disputes, representing clients in court proceedings and advocating for their rights and interests. This experience has given me a comprehensive understanding of the litigation process and the ability to strategize and present compelling arguments in complex legal cases. By combining my expertise in contract law with my litigation experience, I offer a well-rounded perspective and can provide comprehensive legal solutions to clients, whether they require contract drafting, enforcement, or representation in court.";s:9:"file_data";s:33:"Resume_10_06_2023_07_43_43_PM.pdf";}i:19;O:8:"stdClass":9:{s:6:"req_id";s:2:"20";s:8:"fullname";s:12:"GAURAV GUPTA";s:8:"email_id";s:26:"VARSHNEYGAURAV00@GMAIL.COM";s:6:"mobile";s:10:"9784707703";s:3:"add";s:36:"10/159 GUPTA BHAWAN AJMER RAJASTHAN ";s:7:"grouped";s:2:"CA";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:126:"Worked at PWC-Mumbai as Article Assistant.
+Want to get  overall exposure of all the services provided by your organization.
+";s:9:"file_data";s:22:"Resume_GauravGupta.pdf";}i:20;O:8:"stdClass":9:{s:6:"req_id";s:2:"21";s:8:"fullname";s:19:"Sanjoy Chakraborty ";s:8:"email_id";s:24:"sanjoy.c@sumeruglobal.in";s:6:"mobile";s:10:"8548053823";s:3:"add";s:39:"Panskura, Purba Medinipur, West Bengal ";s:7:"grouped";s:5:"Other";s:3:"exp";s:6:"1 Year";s:3:"msg";s:55:"I want to join with you and give to some helping hand  ";s:9:"file_data";s:33:"Sumeru Global_Company Profile.pdf";}i:21;O:8:"stdClass":9:{s:6:"req_id";s:2:"22";s:8:"fullname";s:13:"Apurv Paliwal";s:8:"email_id";s:24:"paliwalapurv39@gmail.com";s:6:"mobile";s:10:"8602578064";s:3:"add";s:37:"Kokonut Heights Indore Madhya Pradesh";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:588:"Dear Sir
+
+I have recently cleared CA Intermediate both groups and completed ITT and OC.
+I am looking forward for articleship in your esteemed organisation.
+
+I will be specialising in Audit, Taxation,Finance,etc as part of the course, which would give me better perspective of my function as article trainee.
+
+Ready to join immediately (within 8 days of selection) 
+
+I am attaching my CV along with this mail .
+I will be obliged if you can arrange articleship opportunity for me .
+
+
+Hoping to get a positive response from your side.
+
+Thanking you 
+
+Regards 
+Apurv Paliwal";s:9:"file_data";s:12:"Apurv_CV.pdf";}i:22;O:8:"stdClass":9:{s:6:"req_id";s:2:"23";s:8:"fullname";s:16:"MohdSoyeb A Vora";s:8:"email_id";s:20:"soyeb.vora@gmail.com";s:6:"mobile";s:10:"9974160486";s:3:"add";s:43:"17- Tavakkal soc, sarkhej, Ahmedabad-380051";s:7:"grouped";s:5:"Other";s:3:"exp";s:8:"11+ Year";s:3:"msg";s:66:"Applied For Audit Manager Position, Reference to Mail from Indeed.";s:9:"file_data";s:15:"Soyeb Vora1.pdf";}i:23;O:8:"stdClass":9:{s:6:"req_id";s:2:"24";s:8:"fullname";s:14:"RAHUL CHOUHAN ";s:8:"email_id";s:29:"rahulchouhan1852000@gmail.com";s:6:"mobile";s:10:"9694902669";s:3:"add";s:21:"Nana,pali, Rajasthan ";s:7:"grouped";s:5:"Other";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:86:"Kya main aapke sath work kar skta hu I am post graduate in art with geography subject ";s:9:"file_data";s:13:"My resume.pdf";}i:24;O:8:"stdClass":9:{s:6:"req_id";s:2:"25";s:8:"fullname";s:18:"Siddharth Rathore ";s:8:"email_id";s:29:"siddharthrathore147@gmail.com";s:6:"mobile";s:10:"7990255585";s:3:"add";s:61:"F-102 Bhakti Enclave Nr.Bhakti Circle,Nikol,Ahmedabad -382350";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:56:"Looking for Articleship .
+Got reference from Deep Patel";s:9:"file_data";s:21:"Siddharth _Resume.pdf";}i:25;O:8:"stdClass":9:{s:6:"req_id";s:2:"26";s:8:"fullname";s:13:"Deep Thakkar ";s:8:"email_id";s:25:"deepthakkar0224@gmail.com";s:6:"mobile";s:10:"9979363073";s:3:"add";s:36:"38, yash vihar, amabji neliyu, patan";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:40:"Area of interest : Taxation and finance ";s:9:"file_data";s:15:"resume deep.pdf";}i:26;O:8:"stdClass":9:{s:6:"req_id";s:2:"27";s:8:"fullname";s:11:"JANAK VAMJA";s:8:"email_id";s:23:"janakvamja999@gmail.com";s:6:"mobile";s:10:"7046733002";s:3:"add";s:14:"Tankara, morbi";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:1:".";s:9:"file_data";s:14:"cv new (1).pdf";}i:27;O:8:"stdClass":9:{s:6:"req_id";s:2:"28";s:8:"fullname";s:16:"Sharad limbasiya";s:8:"email_id";s:24:"sharadpatel343@gmail.com";s:6:"mobile";s:10:"8128411350";s:3:"add";s:53:"Alka park-4, raghuvir main road, kuvadava road,rajkot";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:24:"Seeking for articleship ";s:9:"file_data";s:10:"Resume.pdf";}i:28;O:8:"stdClass":9:{s:6:"req_id";s:2:"29";s:8:"fullname";s:16:"Sharad limbasiya";s:8:"email_id";s:24:"sharadpatel343@gmail.com";s:6:"mobile";s:10:"8128411350";s:3:"add";s:53:"Alka park-4, raghuvir main road, kuvadava road,rajkot";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:24:"Seeking for articleship ";s:9:"file_data";s:10:"Resume.pdf";}i:29;O:8:"stdClass":9:{s:6:"req_id";s:2:"30";s:8:"fullname";s:13:"Khushi Patwa ";s:8:"email_id";s:25:"khushipatwa1604@gmail.com";s:6:"mobile";s:10:"9575941689";s:3:"add";s:43:"Jain colony, mahaveer ganj, piplia mandi,  ";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:288:"I have cleared my ca Intermediate in first attempt, along with CA foundation. I scored 95% in 12th standard and 92% in 10th standard. I also represented my school in state level football tournament 3 time, along with participation in various public speaking events and national olympaids.";s:9:"file_data";s:23:"Khushi_patwa_resume.pdf";}i:30;O:8:"stdClass":9:{s:6:"req_id";s:2:"31";s:8:"fullname";s:14:"Priyanshi Jain";s:8:"email_id";s:20:"prynshi123@gmail.com";s:6:"mobile";s:10:"7987934909";s:3:"add";s:42:"Nakoda dudh dairy, Naya Bazar, Maksi, M.P.";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:313:"Dear Sir/Ma'am,
+I hope you had a great day so far.
+I hereby, would like to inform you that I am a CA Student looking for a CA Articleship opportunity in your Company.
+I request you to kindly inform me if any vacancy is available for me.
+
+Looking forward to hearing from you.
+
+Your sincerely
+Priyanshi Jain";s:9:"file_data";s:18:"PRIYANSHI JAIN.pdf";}i:31;O:8:"stdClass":9:{s:6:"req_id";s:2:"32";s:8:"fullname";s:24:"Solanki Jaykumar Bhaidas";s:8:"email_id";s:19:"jays30072@gmail.com";s:6:"mobile";s:10:"9925976313";s:3:"add";s:45:"Om Shayona Arcade, Nr. Silver Oak University.";s:7:"grouped";s:11:"Articleship";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:70:"I have cleared CA INTERMEDIATE both group in first attempt in Nov. 23.";s:9:"file_data";s:14:"Resume Jay.pdf";}i:32;O:8:"stdClass":9:{s:6:"req_id";s:2:"33";s:8:"fullname";s:13:"Devarsh Jagad";s:8:"email_id";s:24:"Devarshjagad@outlook.com";s:6:"mobile";s:10:"9825628075";s:3:"add";s:26:"B-14, Orchid white field, ";s:7:"grouped";s:2:"CA";s:3:"exp";s:9:"0-6 Month";s:3:"msg";s:214:"I am a recently qualified Chartered Accountant (November 2023) with experience in Auditing and Assurance. 
+
+I have attached my resume for your review. I am available for an interview at your earliest convenience.";s:9:"file_data";s:10:"Resume.pdf";}}slider_data|a:2:{i:0;O:8:"stdClass":5:{s:9:"slider_id";s:1:"2";s:9:"on_screen";s:1:"Y";s:12:"slider_title";s:24:"Business Support Service";s:11:"description";s:127:"A range of business financial services, from auditing the expenses to Identifying compliance gaps to suggest Unbeaten Measures.";s:10:"slider_img";s:11:"slider2.jpg";}i:1;O:8:"stdClass":5:{s:9:"slider_id";s:1:"4";s:9:"on_screen";s:1:"Y";s:12:"slider_title";s:8:"Taxation";s:11:"description";s:124:"Precise, Proficient and Approachable taxation services to the Business Community and all the Taxpayers on a Sustained Basis.";s:10:"slider_img";s:11:"slider4.jpg";}}services|a:14:{i:0;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:15:" Internal Audit";s:10:"servise_id";s:2:"13";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:1:"7";s:17:"short_description";s:118:"Internal Audit is an ideal tool to lessen gaps and loopholes between the varied business processes and execution..... ";s:11:"description";s:3587:"<p><strong>Internal Audit</strong> is an ideal tool to lessen gaps and loopholes between the varied business processes and execution strategies of an entity in different commonplace office functions such as HR, Finance, Risk and Statutory compliances. Internal Audit is nothing but the cautious assessment of internal controls. It lends a hand in implementing the better industrial norms and standards to meet business objectives.</p>
+
+<p>As stated by the standard laid down by The Institute of Chartered Accountants of India (ICAI), Internal Audit is largely defined as a Risk Management Function autonomously carried out to support the Management of an entity. It is performed internally at the request of the Management and poles apart from External or Statutory Audit.</p>
+
+<h3>Features</h3>
+
+<ul>
+	<li>Internal audit is an independent management task performed to provide an impartial and fair report.</li>
+	<li>The internal audit checks the on hand standard operating procedures and internal controls and with the objective of determining whether they are accurately carried out.</li>
+	<li>It promotes better business control by improving internal control structures.</li>
+	<li>It categorizes risks &amp; prospects and plans controls to manage the threat and to take the benefit of opportunities.</li>
+</ul>
+
+<h3>When is Internal Audit required?</h3>
+
+<ul>
+	<li>If business&rsquo;s complexity and size is increased</li>
+	<li>Conformity of Statutory requirement</li>
+	<li>Information technology&rsquo;s use on large scale</li>
+	<li>Internal controls for risk management</li>
+	<li>Set up ideal business management by using the best industry practices.<strong> </strong></li>
+</ul>
+
+<h3>Functions</h3>
+
+<ul>
+	<li>Evaluate policies, processes and operations</li>
+	<li>Assessing and examining constant efficacy of the internal control system and suggesting for better internal control mechanism.</li>
+	<li>Help management to identify and prevent frauds</li>
+	<li>Support management in creating improved processes &amp; policies</li>
+	<li>Confirm peril being managed within satisfactory limits as laid down by the Board of Directors.</li>
+</ul>
+
+<p><strong>As per Securities and Exchange Board of India (SEBI), listing agreement requires listed entity to ensure:</strong></p>
+
+<ul>
+	<li>Find &amp; report suspected frauds or say irregularity that is the result of internal control mechanism&rsquo;s failure</li>
+	<li>Steps taken by them to look up dearth in internal control to the auditors and the audit committee</li>
+	<li>Certification and taking responsibility by the CEO and CFO to the Board of Directors for the usefulness of internal controls</li>
+	<li>Internal audit function is being made functional</li>
+	<li>Report the internal controls&rsquo; weaknesses</li>
+</ul>
+
+<p>At <strong>Parikh &amp; Associates</strong>, we offer a design to suit individual entity&#39;s needs and address their Concerns. Our endeavor is to handhold you right from addressing your key business concerns, helping you comply with regulatory norms and enhancing overall effectiveness of corporate governance and reporting requirements, boosting your operational efficiencies to achieve your strategic business goals.<br />
+<br />
+While we tailor our solution to a client&rsquo;s requirements, the agility, conviction and sensitivity with which we approach any issue is constant. We move toward the every audit with a high standard of professionalism and integrity, while also working with our clients to improve their internal controls and governance.</p>
+";s:11:"small_image";s:6:"s4.jpg";s:10:"long_image";s:12:"internal.jpg";}i:1;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:15:"Forensic Audit ";s:10:"servise_id";s:2:"16";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"13";s:17:"short_description";s:99:"Forensic auditors or say forensic accountants own the special skills to document & detect fraud. ..";s:11:"description";s:2884:"<h3>What is Forensic Audit</h3>
+
+<p>Actually, the term <strong>forensic Audit</strong> is not defined anywhere.&nbsp;Though there is a minute difference in the two concepts, normally, forensic accounting is used as the synonym to the forensic audit. In forensic accounting actions, the accountant be acquainted with that the fraud exist while in the forensic audit, the forensic auditor is affianced to discover if the fraud exist or not?</p>
+
+<p>Forensic auditors or say forensic accountants own the special skills to document &amp; detect fraud. Their role include understand the legal scope of the evidence, investigation, bringing out proof, write reports, and search the ways to prove it.</p>
+
+<h3>When the Forensic Audits require?</h3>
+
+<p>A forensic audit is needed wherever the company&rsquo;s finances present a legal concern. For example, Forensic audit is used in cases of necessities to determine tax liability or for the suspected fraud. Forensic audits needs skill sets in accounting along with specialize in keeping track of counterfeit, following a money trail and actual balance sheets. He has supposed to check for inaccuracies in overall and detailed reports of income or expenditures. If the forensic auditor find absurdity he has further investigate and determine the reason.</p>
+
+<p>On a regular basis, many companies self-audit to make sure the workflows and production are in normal flow with no downer, and generate report to provide executives, shareholders, clients and customers, a better sense for the finances of the business. But, in the case company itself is commending fraud to falsify reports, a forensic audit is become essential to determine the lost income because of a fake report as well as to determine the loss the fake report caused to shareholders, clients or employees. <strong>&nbsp;</strong></p>
+
+<h3>Skills of Forensic Auditor</h3>
+
+<ul>
+	<li>Inventive approach</li>
+	<li>Skeptic of regular&nbsp;audit practices</li>
+	<li>knowledge of computer assisted audit process</li>
+	<li>Knowledge of legal&nbsp;environment regarding businesses</li>
+</ul>
+
+<h3>Where to Apply <strong> </strong></h3>
+
+<ul>
+	<li>Litigation Support</li>
+	<li>Management audit</li>
+	<li>Business valuation</li>
+	<li>Assessment for loss before settlement of insurance&nbsp;claims</li>
+	<li>due-diligence</li>
+</ul>
+
+<p><strong>Forensic accounting &amp; fraud detection</strong> is an independent and comprehensive process of reviewing financial statements to determine its accuracy. Business environment today is volatile, the perpetrators are increasingly sophisticated, also the stakeholder expectations are getting higher and along with the regulatory enforcement, the need for fraud risks are increasing.<br />
+<br />
+Our Forensic Services is the answer to help you overcome these censorious business challenges, effectively.</p>
+";s:11:"small_image";s:6:"s4.jpg";s:10:"long_image";s:18:"forensic_audit.jpg";}i:2;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:33:" Management and Propriety Audit  ";s:10:"servise_id";s:2:"17";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"14";s:17:"short_description";s:99:"The focus of Propriety Audit is on the efficiency, the authority structure, rules and regulations..";s:11:"description";s:3633:"<p>The focus of <strong>Propriety Audit </strong>is on the efficiency, the authority structure, rules and regulations and monetary discipline as well as the protection of public interest. Propriety audit is all about the making the actions and the decisions of the executives and management of the unit or an organization.</p>
+
+<p>Propriety audit is based on the authentication of transactions in the best interest of public and normally established standards of conduct. The term &ldquo;propriety&rdquo; is defined finely to understand its purpose and end results. It says &ldquo;the &lsquo;propriety&rsquo; that meets the tests of public interest. It is standards of conduct and generally accepted customs, and mainly as valid to professional performance, necessities of government regulations and professional codes&rdquo;.</p>
+
+<p>Rather than to rely on vouchers, documents, and evidences, it shifts the importance to the essence of the transactions and looks into the aptness thereof on a consideration of financial caution, public interest, and prevention of uneconomical spending.</p>
+
+<p>Accordingly, propriety audit is concerned with study of managerial actions and resolution bearing on economic and profit and loss situation of the company with special regard to public interest and commonly accepted customs, and standards of conduct.</p>
+
+<p>Whether all the offers have worked out with the equal attention in respect of spending incurred from public money, as a person of general normal caution would implement in respect of expenses of his own money under similar circumstances.</p>
+
+<p><strong>Propriety audit needs the business involving expenses to conform to general principles as under:</strong></p>
+
+<ul>
+	<li>Expenses is not professional misconduct more than circumstance demands and all the officials work out the same level of care in respect of spending, as a person of ordinary caution would work out in regard of his own money.</li>
+	<li>The authority exercises its power of sanction to pass an order which will not directly or independently build up its own benefit.</li>
+	<li>The funds are not employed for the advantage of a particular person or a group of persons.</li>
+</ul>
+
+<p><strong>Management audit </strong>is considered about to be a course of self-governing review of the management activities at all the levels of management to determine the efficiency, functions, and attainment of the policies and modus operandi as compared to standards put by the organization. We lend a hand to the entity in self-determining examination of the procedure and operating processes approved by the organization and its observance. The Management audit depend upon auditor mind set and/or the purpose of management audit.</p>
+
+<p>As the management has big role in deciding the growth rate and about the failure or success of the company, we can call management the lifeblood of an entity. It is crucial for the organization to improve the management effectiveness and efficiency to gain competitive advantage in today business world.&nbsp;</p>
+
+<p>In today business world management play very important role for the success of failure of business. Management is the life blood of every organization. So if organization want to gain competitive advantage then it should improve their management efficiency and effectiveness.</p>
+
+<p><strong>Followings are the objectives of management audit:</strong></p>
+
+<ul>
+	<li>Review of methods</li>
+	<li>Performance appraisal</li>
+	<li>Review of policies</li>
+	<li>Review of procedures</li>
+	<li>Job rotation</li>
+</ul>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:7:"s22.jpg";s:10:"long_image";s:19:"managment_audit.jpg";}i:3;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:26:"  Information System Audit";s:10:"servise_id";s:2:"18";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"15";s:17:"short_description";s:101:"Today, Information technology is a vital part of all the business operations. In order to operate....";s:11:"description";s:1623:"<p>Today, Information technology is a vital part of all the business operations. In order to operate, almost every part of the business relies on technology and networks. There are so many benefits of this exciting and rewarding field of <strong>information systems audit.</strong> It means that the IT audit is imperative.</p>
+
+<p>IT audit has an extremely vital and rewarding role because it allows an organization to have an apparent and truthful look at itself with an objective of how can you do things more efficiently. The information system auditor can assure management on the cost and reward of information technology and the effectiveness of the information system audit.</p>
+
+<p>The information system auditor discovers audit evidence and plans the audit. He provide audit report after exploring the audit recommendation.</p>
+
+<p>The chief intend of the Information System audit is to check for loopholes and vulnerabilities in the system and to search out how the efficiency and the productivity of the system can be improved.<br />
+Information System audit, also called a system audit is the careful and vigilant assessment and review of the management controls within an Information technology infrastructure.</p>
+
+<p>We provide a tangible Mechanism for analyzing the effectual operation of system for preferred outputs. At <strong>Parikh &amp; Associates,</strong> we assist in determining the effectiveness of the internal controls&rsquo; information system and whether or not they are working the way they should. We also support in determining any lost internal controls inside the system.</p>
+";s:11:"small_image";s:7:"s23.jpg";s:10:"long_image";s:15:"information.jpg";}i:4;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:13:"Certification";s:10:"servise_id";s:2:"19";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"16";s:17:"short_description";s:109:"At Parikh & Associates, we provide verification services by way of certification as it may be required.......";s:11:"description";s:196:"<p>At Parikh &amp; Associates, we provide verification services by way of certification as it may be required under law for the time being in force, prerequisite of the management or others.</p>
+";s:11:"small_image";s:8:"s213.jpg";s:10:"long_image";s:15:"certificate.jpg";}i:5;O:8:"stdClass":10:{s:16:"main_header_name";s:13:"Risk Advisory";s:13:"sub_menu_name";s:15:"Statutory Audit";s:10:"servise_id";s:2:"37";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"31";s:17:"short_description";s:133:"The reason of execution of the statutory audit is to verify all the processes in which a company spends the funds and earns profits. ";s:11:"description";s:1863:"<p>The reason of execution of the <strong>statutory audit</strong> is to verify all the processes in which a company spends the funds and earns profits. The audit is also performed intending to observe the methods used for spending such money are in accordance with the laws and policies vigorously put into practice for that use. Therefore, the statutory audit is very important.</p>
+
+<p>A statutory audit is an officially required assessment that is performed to verify the overall correctness of entity&rsquo;s financial records and statements. The major intention of carrying out statutory audit is to conclude whether the entity is offering the precise and reasonable illustration of its existing financial position.</p>
+
+<p>An entity is required to report their financial position and performance at regular intervals to the various stakeholders including Shareholders, Government authorities, Bankers, etc.</p>
+
+<p>The statutory audit is carried out by strictly examining accounting information of all the financial transactions from bookkeeping records to bank balances. The leading CA firm in Ahmadabad, Parikh &amp; Associates charted accountants handle the statutory audit dexterously to make sure that all the steps that are associated with the process are performed properly.</p>
+
+<p>The statutory audit is not performed to check fraud, non-compliances, or lapses, but it is adroitly planned to help the organization to prevent misappropriation of funds and illegal activities with regular assessment of the numerous records provided by some competent third party.<br />
+<br />
+We at<strong> Parikh &amp; Associates</strong> charted accountants conduct the audit of the financial statements of an organization in line with the requirements of the statute and provide our opinion on the financial statement with its true and fair view.</p>
+";s:11:"small_image";s:7:"s31.jpg";s:10:"long_image";s:21:"statutory_audit17.jpg";}i:6;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:60:"IFRS, Ind AS, US GAAP Advisory, Implementation and Reporting";s:10:"servise_id";s:2:"20";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:1:"3";s:17:"short_description";s:111:"IFRS stands for the International Financial Reporting Standards. It is the international accounting framework..";s:11:"description";s:3195:"<p><strong>IFRS</strong> stands for the <strong>International Financial Reporting Standards</strong>. It is the international accounting framework to organize correctly as well as to report the financial information. IFRS is resultant term of the statement of the International Accounting Standards Board (IASB) based in London. At present, it is the necessary accounting framework in more than 120 countries.</p>
+
+<p>There is substantial consistency in the financial reporting of all businesses using IFRS, that makes it easier to evaluate and compare the financial results of businesses. Using the same rules, it prepares report for the financial position and financial results for the businesses barring any fraudulent manipulation.</p>
+
+<p><strong>Generally Accepted Accounting Principles (GAAP)</strong> are fundamental accounting principles and guidelines that provide the framework for comprehensive and inclusive accounting rules, standards and other industry-specific accounting practices.</p>
+
+<p>In India, <strong>financial statements</strong> are prepared on the basis of accounting standards issued by the Institute of Chartered Accountants of India (ICAI) and the law laid down in the respective applicable acts (for example, Schedule III to Companies Act, 2013 should be compulsorily followed by all companies). The ICAI also announces guidelines time to time on diverse topics to assist in the accounting process and grant clarity.</p>
+
+<p>With the growing presence of MNC's, international compliance requirements, the call for of reporting of Financial Statements has stirred towards global reporting framework.</p>
+
+<p>Where it is required, we prepare reviews and provide an analysis of reporting under International Financial Reporting Standards (IFRS), Indian Accounting Standards (Ind AS) or US GAAP. We also make sure that reporting necessities are effectively met.</p>
+
+<p>Our qualified chartered accountants hold wide-ranging practical experience in financial reporting across multiple jurisdictions and under diverse accounting frameworks (including IFRS , IND AS and US GAAP). We enthusiastically monitor new accounting rules, alert to changing requirements and provide support dealing with multifaceted accounting or reporting challenges, including the conversion to International Financial Reporting Standards (IFRS) and IND AS.</p>
+
+<p>Advisory service by <strong>Parikh & Associates</strong> is the solution to these compliance requirements of an entity. We support entity in implementation, adoption, and review of the reporting requirements.</p>
+
+<p><strong>On Financial Reporting we offer:</strong></p>
+
+<ul>
+	<li>IFRS and IND AS Conversion</li>
+	<li>guidance on Accounting Standards</li>
+	<li>organize Accounting/Finance Manuals</li>
+	<li>Accounting Assistance</li>
+	<li>Documentation, evaluation, testing of Internal Financial Controls (IFC)</li>
+	<li>Impairment testing</li>
+	<li>Fair Value Accounting</li>
+	<li>Post-merger integration of financial reporting process</li>
+	<li>Revenue Recognition Processes and Controls</li>
+	<li>Development of chart of accounts</li>
+	<li>To set up financial statements</li>
+</ul>
+
+<p> </p>
+";s:11:"small_image";s:8:"s214.jpg";s:10:"long_image";s:13:"ifrs_gars.jpg";}i:7;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:63:"Book Keeping Domestic and International Transactions Accounting";s:10:"servise_id";s:2:"21";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:2:"17";s:17:"short_description";s:119:"An elementary of accounting is based on Book keeping. Bookkeeping refers to the maintenance of daily business records..";s:11:"description";s:2027:"<p>An elementary of accounting is based on <strong>Book keeping.</strong> Book keeping refers to the maintenance of daily business records. It is the skill for recording financial transactions with the help of relevant documents and papers. Therefore, bookkeeping is a prerequisite to accounting. It is essential because:</p>
+
+<ul>
+	<li>It helps in get ready the financial statements</li>
+	<li>It present an easy perceptive of inflow and outflow mediums of cash</li>
+	<li>It alleviates the process of company audit</li>
+	<li>It is essential for future forecasting and decision-making</li>
+	<li>it helps to reduce any misconducts</li>
+</ul>
+
+<p>With the potential of supporting companies of all sizes, we help them reduce cost and improve efficiency of all the business processes. We work for small to large Indian companies as well as for overseas companies.</p>
+
+<h3>Services for monthly book keeping &amp; statutory reporting</h3>
+
+<ul>
+	<li>Monthly bank reconciliations&nbsp;&nbsp;&nbsp;</li>
+	<li>Posting general ledger together with recording of all accounting entries</li>
+	<li>Support with the issuing of sales invoices&nbsp;&nbsp;&nbsp;</li>
+	<li>Account reconciliations/intercompany reconciliations (receivables, payables)&nbsp;&nbsp;&nbsp;</li>
+	<li>Maintenance of fixed assets register&nbsp;&nbsp;&nbsp;</li>
+	<li>Maintenance of all other ledgers in the accounting software (cash, receivables, payables)&nbsp;&nbsp;&nbsp;</li>
+	<li>Travel expense calculations&nbsp;&nbsp;</li>
+</ul>
+
+<p>Our service offerings cater to a wide spectrum of clientele across the globe. So leave your accounting matters to us and free up your time for the strategic areas of your business. We work closely with you to see to your business&#39; accounting needs and maintain your accounts in a timely manner.</p>
+
+<p>We offer assured Book Keeping services of <strong>recording the Financial Transactions</strong> in order with the reporting framework as valid to the concerned client in a sophisticated way.</p>
+";s:11:"small_image";s:7:"s12.jpg";s:10:"long_image";s:16:"book_keeping.jpg";}i:8;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:22:"Regulatory Compliances";s:10:"servise_id";s:2:"22";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:2:"18";s:17:"short_description";s:97:"Regulatory compliances guarantee an entity's devotion to rules, regulations, laws and policies...";s:11:"description";s:2227:"<p><strong>Regulatory compliances</strong> guarantee an entity&#39;s devotion to rules, regulations, laws and policies. We know various laws administer an entity. We support an entity&#39;s aim to obey with relevant policies, laws, and regulations.</p>
+
+<p><strong>Parikh &amp; Associates</strong> has a dedicated team of experienced&nbsp;regulatory professionals. The team is ready to bring the dynamic approach to&nbsp;deliver the growth focused, integrated strategy to manage regulatory&nbsp;change.</p>
+
+<p>As amended rules and regulations are introduced, the business processes need to imply with more transparency with good professionalism.</p>
+
+<p>We support organizations to identify the applicable laws and regulations to better understand the&nbsp;regulatory environment. Our approach combines an analysis of the legal&nbsp;framework together with an assessment of the systems and processes.</p>
+
+<p>Regulatory Compliance Services combines industry acquaintance and regulatory competence to help management and regulators in assessing entity&#39;s compliance with pertinent rules and&nbsp;regulations.</p>
+
+<h3>How Parikh &amp; Associates helps?</h3>
+
+<ul>
+	<li>Enhance your&nbsp;capability to alleviate risk of failure and to meet regulatory requirements</li>
+	<li>Support organizations with the suite of processes policies, and explanations</li>
+	<li>Provide the best fit solutions to your specific needs</li>
+	<li>Evaluate the efficacy of present benchmarking compliance arrangements and compliance frameworks against recognized industry best practice</li>
+	<li>Help organizations plan for the longer-term goal and enhance strategic and corporate decision making</li>
+	<li>Establish programs that&nbsp; satisfy budding expectations and dogmatic requirements</li>
+	<li>Optimize processes to improve cost saving and competence</li>
+	<li>Offer compliance training to make sure organizations are attentive about the present and fresh regulatory requirements</li>
+</ul>
+
+<p>We understand regulatory requirements; keep the industry know-how to illustrate how they influences organizations. This will help organizations to channelize and plan further to develop the business.</p>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:8:"s215.jpg";s:10:"long_image";s:15:"compliances.jpg";}i:9;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:35:"Preparation of financial statements";s:10:"servise_id";s:2:"23";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:2:"19";s:17:"short_description";s:122:"An entity prepares its financial statements willingly or as consent by the laws under which the entity is covered.........";s:11:"description";s:1869:"<p>An entity prepares its financial statements willingly or as consent by the laws under which the entity is covered. Financial Statements shows the wellness of an entity.</p>
+
+<p>The team of the certified accountants produces all financial statements including income statement, balance sheet, cash-flow statement following higher standards of quality for profit and non-profit oriented businesses. We are capable to provide all your financial documentation prepared precisely and on time.</p>
+
+<p>Closely controlled financial statement records make certain that your daily operations stay competent and are accomplished efficiently. <strong>Parikh &amp; Associates</strong> offers a full range of cost effective accounting services for the <strong>preparation of financial statements</strong>.</p>
+
+<p>For us the preparation of financial statements is an opportunity to connect with you with productive solutions for making the most for the good organization and wealth.</p>
+
+<p><strong>With our service for the financial statements preparation, we offer:</strong></p>
+
+<ul>
+	<li>Adjusting and closing all entries</li>
+	<li>Account keeping (monthly / quarterly / annual)</li>
+	<li>Thorough evaluation and study of the book keeping process</li>
+	<li>Together with monthly and quarterly reports, making the end of the year preparations</li>
+	<li>Financial statement study and report</li>
+	<li>To introduce the best accounting system for new businesses</li>
+</ul>
+
+<p>We at Parikh &amp; Associates always work with the latest generation tools to review and study all the figures to prepare the perfect financial report. Here, we practices the time-tested ploys deal with your original source documents.</p>
+
+<p>We assist entity in preparation of the financial statements in line with the requirements of the statute at the reporting intervals.</p>
+";s:11:"small_image";s:8:"s216.jpg";s:10:"long_image";s:18:"financial_stmt.jpg";}i:10;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:30:"Applications and Registrations";s:10:"servise_id";s:2:"25";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:1:"5";s:17:"short_description";s:124:"Organizations, from lower market to the multinational firms are open to the elements to changing trends in tax regulations..";s:11:"description";s:793:"<p>Organizations, from lower market to the multinational firms are open to the elements to changing trends in tax regulations. Approach to tax is changing. Tax decisions are under amendment like never before.</p>
+
+<p>In this scenario, specialist advice and services are needed for the large corporate groups in order to manage their tax obligations. They are involved in knotty transactions and typically have atypical structures. Furthermore, there are exceptional tax rules that speak about expressly to corporations and corporate groups.</p>
+
+<p>Parikh &amp; Associates owns a dedicated team, specially developed for each area of tax practice, bearing in mind the requirements of diverse skill levels and outlook. We follow the practical approach in tax services.</p>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:12:"taxation.jpg";s:10:"long_image";s:15:"application.jpg";}i:11;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:31:"Compliances And Return Fillings";s:10:"servise_id";s:2:"26";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:2:"22";s:17:"short_description";s:112:"Indian tax law needs the strategic approach and a spectrum of ploys so that you are well placed for tax savings,";s:11:"description";s:4375:"<p>Indian tax law needs the strategic approach and a spectrum of ploys so that you are well placed for tax savings.</p>
+
+<p><strong>You can have our services as follow:</strong></p>
+
+<ul>
+	<li>Replying to a range of Income Tax Notices</li>
+	<li>Attaining incorrect demand removed and getting refunds, if any</li>
+	<li>Personal Tax Compliances &ndash; Compiling and filing of Tax return</li>
+	<li>Tax Implication on every transaction which involve Income element</li>
+	<li>Advance tax calculations and deposit on quarterly basis</li>
+	<li>Deposit of self-assessment tax and tax on regular assessments etc.</li>
+</ul>
+
+<h3>Compliance services</h3>
+
+<ul>
+	<li>Assistance in obtaining registrations under GST or other statutory legislations as required</li>
+	<li>Review of periodic computation of tax liabilities</li>
+	<li>File obligatory legal applications with diverse authorities</li>
+	<li>Authentication of input tax credit records</li>
+	<li>Identification of ineligible credits</li>
+	<li>Assistance in preparing and filing periodic return(s)</li>
+	<li>Provide GSP/ASP solutions for seamless execution of monthly compliances</li>
+</ul>
+
+<h3>Return Filling</h3>
+
+<p>The majority of the indirect taxes - for which returns were filed independently for different businesses - have been subsumed. It is one of the important aspects and aims after introducing GST in India. These days, whether one is a manufacturer, trader, reseller, or service provider, he/she needs to file GST returns online in India, in the approved formats.</p>
+
+<p>There are 19 GST return forms Under GST that the tax payers use to file GST returns online. All these forms are needed to be e-filed as per the GST return filing procedure laid down in the GST return rules section of the GST Act.</p>
+
+<p>Irrespective of profitability, sale and business activity, during the return filing period, GST return filing is compulsory for all organizations having GST registration. Therefore, even an inactive business that obtained GST registration must file GST return. All entities having GST registration are needed to file GST returns, as per the due date schedule for the GST return. Parikh &amp; Associates provides apt GST return filing service in Ahmedabad.</p>
+
+<p>The normal time to file a GST return is about 1 - 3 working days, subject to government processing time and client document submission.</p>
+
+<p><strong>GST registration holders are required to file business details as following:</strong></p>
+
+<ul>
+	<li>GSTR-1 (details of outward supplies) on the 10th of each month,</li>
+	<li>GSTR-2A (details of inward supplies) on the 15th of each month</li>
+	<li>GSTR-3B (monthly return) on the 20th of each month. Due to GSTN Technical glitches now GSTR 3B&nbsp;due dates are staggered manner where due dates are as follows.&nbsp;</li>
+</ul>
+
+<ol>
+	<li>20th for persons whose Annual turnover in previous finacial year is more than 5 crore.</li>
+	<li>22nd for Gujart Chhattisgarh, Madhya Pradesh, Daman and Diu, Dadra and Nagar Haveli, Maharashtra, Karnataka, Goa, Lakshadweep, Kerala, Tamil Nadu, Puducherry, Andaman and Nicobar Islands, Telangana and Andhra Pradesh for persons whose aggregate turnover during previous year is less than Rs. 5 Crore (i.e. for small &amp; medium size taxpayers).</li>
+	<li>24th for Jammu and Kashmir, Ladakh, Himachal Pradesh, Punjab, Chandigarh, Uttarakhand, Haryana, Delhi, Rajasthan, Uttar Pradesh, Bihar, Sikkim, Arunachal Pradesh, Nagaland, Manipur, Mizoram, Tripura, Meghalaya, Assam, West Bengal, Jharkhand and Odisha&nbsp; for persons whose aggregate turnover during previous year is less than Rs. 5 Crore (i.e. for small &amp; medium size taxpayers).</li>
+</ol>
+
+<ul>
+	<li>Dealers registered under the GST composition scheme are required to file GSTR-4 Annualy, on 18th of the month next to the quarter need to pay tax by filling CMP -08.</li>
+	<li>The annual GST return is to be filed by all GST registered entities on/before the 31st of December.</li>
+</ul>
+
+<p>Parikh &amp; Associates is an experienced team of professional service provider providing timely and accurate Routine Compliance &amp; Return Filling services</p>
+
+<p>We provide assistance in compliance procedure adhering to Income Tax and Goods and Service Tax provisions including return filling under relevant Act.</p>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:8:"s217.jpg";s:10:"long_image";s:10:"return.jpg";}i:12;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:13:" Tax advisory";s:10:"servise_id";s:2:"27";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:2:"23";s:17:"short_description";s:109:"Parikh & Associates one of the leading tax advisory companies in Ahmedabad specializing in tax consultancy...";s:11:"description";s:1251:"<p>Parikh &amp; Associates one of the leading tax advisory companies in Ahmedabad specializing in tax consultancy. We provide stepwise guidance for the pre and post introduction of GST. We understand the rules of competition and set high standards for optimizing their company. With the clear, diagnostic look at each scrupulous situation, we identify solutions and suggest apt options that our clients may consider for the economical growth of the company.</p>
+
+<p>GST impacts tax computation, compliance, tax structure and tax payment. It is also considered as the key factor that may control the tax incidences across the nation. It also influences the credit utilization and reporting along with influencing each facet of business operations including pricing of products and services.</p>
+
+<p>We help businesses in looking forward to change in policy and reviewing impact on their operations. We offer an inventory of specialized GST advisory services to our clients which involves analyzing its impact on their business. We also offer service like situation analysis together with transition management, legislative business level implementation assistance, undertaking key compliances and alternative business models.</p>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:8:"s218.jpg";s:10:"long_image";s:16:"tax_advisory.jpg";}i:13;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:6:"Audits";s:10:"servise_id";s:2:"28";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:2:"24";s:17:"short_description";s:121:"We advise on planning of all the income tax related issues relating to Direct tax. We also provide services in relation..";s:11:"description";s:1483:"<p>We advise on planning of all the income tax related issues relating to Direct tax. We also provide services in relation to Auditing under Incometax Act and the regulatory framework and issung report in prescribed formats.</p>
+
+<p>These services involve evaluation of tax implications on present or proposed business transactions.</p>
+
+<p>In order to discover the GST impact, from the viewpoint of Procurement, Manufacturing, and Distribution, our experienced team review contracts and agreements.</p>
+
+<p>We provide support to meet the terms with the provisions of anti-profiteering rules under GST. We also tender support in recognizing the best possible valuation model for the linked party transactions under GST, while line up the same with the model accepted under transfer pricing provisions. It also evaluates the legal positions approved and put forward the changes, if any, under the GST regime.</p>
+
+<p>You can have the guidance on matters pertaining to import and export of goods into/from India under the Customs Act, 1962. We refer the Customs Valuation-related matters with regards to import from related parties.</p>
+
+<p>At, Parikh &amp; associates, You can avail the prolific guidance on diverse incentive schemes pertaining to duty-free import/export of goods or services under the Foreign Trade Policy. We are knowledgeable team for the foreign trade policy and its related export benefits. We are serving on FTP guidance and associated benefits.</p>
+";s:11:"small_image";s:8:"s219.jpg";s:10:"long_image";s:12:"auditing.jpg";}}

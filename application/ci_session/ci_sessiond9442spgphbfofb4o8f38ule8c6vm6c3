@@ -1,0 +1,719 @@
+__ci_last_regenerate|i:1731585477;main_menu|a:5:{i:0;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:18:"Assurance Services";}i:1;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:25:"Business Support Services";}i:2;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"5";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:27:"Corporate advisory Services";}i:3;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:8:"Taxation";}i:4;O:8:"stdClass":3:{s:14:"main_header_id";s:1:"7";s:9:"on_screen";s:1:"Y";s:16:"main_header_name";s:4:"RERA";}}sub_menu_list|a:22:{i:0;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"7";s:16:"main_header_name";s:4:"RERA";s:11:"sub_menu_id";s:1:"2";s:12:"main_menu_id";s:1:"7";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:36:"Registration of Real Estate Project ";}i:1;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:1:"3";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:60:"IFRS, Ind AS, US GAAP Advisory, Implementation and Reporting";}i:2;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"5";s:16:"main_header_name";s:27:"Corporate advisory Services";s:11:"sub_menu_id";s:1:"4";s:12:"main_menu_id";s:1:"5";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:31:"Formation of companies And LLPs";}i:3;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:1:"5";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:30:"Applications and Registrations";}i:4;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"7";s:16:"main_header_name";s:4:"RERA";s:11:"sub_menu_id";s:1:"6";s:12:"main_menu_id";s:1:"7";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:59:"Registration Attestation Including Audit  And Certification";}i:5;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:18:"Assurance Services";s:11:"sub_menu_id";s:1:"7";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:15:" Internal Audit";}i:6;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:18:"Assurance Services";s:11:"sub_menu_id";s:2:"13";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:15:"Forensic Audit ";}i:7;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:18:"Assurance Services";s:11:"sub_menu_id";s:2:"14";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:33:" Management and Propriety Audit  ";}i:8;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:18:"Assurance Services";s:11:"sub_menu_id";s:2:"15";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:26:"  Information System Audit";}i:9;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:18:"Assurance Services";s:11:"sub_menu_id";s:2:"16";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:13:"Certification";}i:10;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:2:"17";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:63:"Book Keeping Domestic and International Transactions Accounting";}i:11;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:2:"18";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:22:"Regulatory Compliances";}i:12;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"3";s:16:"main_header_name";s:25:"Business Support Services";s:11:"sub_menu_id";s:2:"19";s:12:"main_menu_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:35:"Preparation of financial statements";}i:13;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:2:"22";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:31:"Compliances And Return Fillings";}i:14;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:2:"23";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:13:" Tax advisory";}i:15;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"6";s:16:"main_header_name";s:8:"Taxation";s:11:"sub_menu_id";s:2:"24";s:12:"main_menu_id";s:1:"6";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:6:"Audits";}i:16;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"5";s:16:"main_header_name";s:27:"Corporate advisory Services";s:11:"sub_menu_id";s:2:"25";s:12:"main_menu_id";s:1:"5";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:20:"Due Diligence Review";}i:17;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"5";s:16:"main_header_name";s:27:"Corporate advisory Services";s:11:"sub_menu_id";s:2:"27";s:12:"main_menu_id";s:1:"5";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:61:"Designing and Implementation of Standard Operating Procedures";}i:18;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"5";s:16:"main_header_name";s:27:"Corporate advisory Services";s:11:"sub_menu_id";s:2:"28";s:12:"main_menu_id";s:1:"5";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:35:"Designing the Risk Control Matrices";}i:19;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"5";s:16:"main_header_name";s:27:"Corporate advisory Services";s:11:"sub_menu_id";s:2:"29";s:12:"main_menu_id";s:1:"5";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:22:"Management consultancy";}i:20;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"5";s:16:"main_header_name";s:27:"Corporate advisory Services";s:11:"sub_menu_id";s:2:"30";s:12:"main_menu_id";s:1:"5";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:17:"Project Financing";}i:21;O:8:"stdClass":6:{s:14:"main_header_id";s:1:"1";s:16:"main_header_name";s:18:"Assurance Services";s:11:"sub_menu_id";s:2:"31";s:12:"main_menu_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:13:"sub_menu_name";s:15:"Statutory Audit";}}services|a:22:{i:0;O:8:"stdClass":10:{s:16:"main_header_name";s:18:"Assurance Services";s:13:"sub_menu_name";s:15:" Internal Audit";s:10:"servise_id";s:2:"13";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:1:"7";s:17:"short_description";s:118:"Internal Audit is an ideal tool to lessen gaps and loopholes between the varied business processes and execution..... ";s:11:"description";s:3587:"<p><strong>Internal Audit</strong> is an ideal tool to lessen gaps and loopholes between the varied business processes and execution strategies of an entity in different commonplace office functions such as HR, Finance, Risk and Statutory compliances. Internal Audit is nothing but the cautious assessment of internal controls. It lends a hand in implementing the better industrial norms and standards to meet business objectives.</p>
+
+<p>As stated by the standard laid down by The Institute of Chartered Accountants of India (ICAI), Internal Audit is largely defined as a Risk Management Function autonomously carried out to support the Management of an entity. It is performed internally at the request of the Management and poles apart from External or Statutory Audit.</p>
+
+<h3>Features</h3>
+
+<ul>
+	<li>Internal audit is an independent management task performed to provide an impartial and fair report.</li>
+	<li>The internal audit checks the on hand standard operating procedures and internal controls and with the objective of determining whether they are accurately carried out.</li>
+	<li>It promotes better business control by improving internal control structures.</li>
+	<li>It categorizes risks &amp; prospects and plans controls to manage the threat and to take the benefit of opportunities.</li>
+</ul>
+
+<h3>When is Internal Audit required?</h3>
+
+<ul>
+	<li>If business&rsquo;s complexity and size is increased</li>
+	<li>Conformity of Statutory requirement</li>
+	<li>Information technology&rsquo;s use on large scale</li>
+	<li>Internal controls for risk management</li>
+	<li>Set up ideal business management by using the best industry practices.<strong> </strong></li>
+</ul>
+
+<h3>Functions</h3>
+
+<ul>
+	<li>Evaluate policies, processes and operations</li>
+	<li>Assessing and examining constant efficacy of the internal control system and suggesting for better internal control mechanism.</li>
+	<li>Help management to identify and prevent frauds</li>
+	<li>Support management in creating improved processes &amp; policies</li>
+	<li>Confirm peril being managed within satisfactory limits as laid down by the Board of Directors.</li>
+</ul>
+
+<p><strong>As per Securities and Exchange Board of India (SEBI), listing agreement requires listed entity to ensure:</strong></p>
+
+<ul>
+	<li>Find &amp; report suspected frauds or say irregularity that is the result of internal control mechanism&rsquo;s failure</li>
+	<li>Steps taken by them to look up dearth in internal control to the auditors and the audit committee</li>
+	<li>Certification and taking responsibility by the CEO and CFO to the Board of Directors for the usefulness of internal controls</li>
+	<li>Internal audit function is being made functional</li>
+	<li>Report the internal controls&rsquo; weaknesses</li>
+</ul>
+
+<p>At <strong>Parikh &amp; Associates</strong>, we offer a design to suit individual entity&#39;s needs and address their Concerns. Our endeavor is to handhold you right from addressing your key business concerns, helping you comply with regulatory norms and enhancing overall effectiveness of corporate governance and reporting requirements, boosting your operational efficiencies to achieve your strategic business goals.<br />
+<br />
+While we tailor our solution to a client&rsquo;s requirements, the agility, conviction and sensitivity with which we approach any issue is constant. We move toward the every audit with a high standard of professionalism and integrity, while also working with our clients to improve their internal controls and governance.</p>
+";s:11:"small_image";s:6:"s4.jpg";s:10:"long_image";s:12:"internal.jpg";}i:1;O:8:"stdClass":10:{s:16:"main_header_name";s:18:"Assurance Services";s:13:"sub_menu_name";s:15:"Forensic Audit ";s:10:"servise_id";s:2:"16";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"13";s:17:"short_description";s:99:"Forensic auditors or say forensic accountants own the special skills to document & detect fraud. ..";s:11:"description";s:2884:"<h3>What is Forensic Audit</h3>
+
+<p>Actually, the term <strong>forensic Audit</strong> is not defined anywhere.&nbsp;Though there is a minute difference in the two concepts, normally, forensic accounting is used as the synonym to the forensic audit. In forensic accounting actions, the accountant be acquainted with that the fraud exist while in the forensic audit, the forensic auditor is affianced to discover if the fraud exist or not?</p>
+
+<p>Forensic auditors or say forensic accountants own the special skills to document &amp; detect fraud. Their role include understand the legal scope of the evidence, investigation, bringing out proof, write reports, and search the ways to prove it.</p>
+
+<h3>When the Forensic Audits require?</h3>
+
+<p>A forensic audit is needed wherever the company&rsquo;s finances present a legal concern. For example, Forensic audit is used in cases of necessities to determine tax liability or for the suspected fraud. Forensic audits needs skill sets in accounting along with specialize in keeping track of counterfeit, following a money trail and actual balance sheets. He has supposed to check for inaccuracies in overall and detailed reports of income or expenditures. If the forensic auditor find absurdity he has further investigate and determine the reason.</p>
+
+<p>On a regular basis, many companies self-audit to make sure the workflows and production are in normal flow with no downer, and generate report to provide executives, shareholders, clients and customers, a better sense for the finances of the business. But, in the case company itself is commending fraud to falsify reports, a forensic audit is become essential to determine the lost income because of a fake report as well as to determine the loss the fake report caused to shareholders, clients or employees. <strong>&nbsp;</strong></p>
+
+<h3>Skills of Forensic Auditor</h3>
+
+<ul>
+	<li>Inventive approach</li>
+	<li>Skeptic of regular&nbsp;audit practices</li>
+	<li>knowledge of computer assisted audit process</li>
+	<li>Knowledge of legal&nbsp;environment regarding businesses</li>
+</ul>
+
+<h3>Where to Apply <strong> </strong></h3>
+
+<ul>
+	<li>Litigation Support</li>
+	<li>Management audit</li>
+	<li>Business valuation</li>
+	<li>Assessment for loss before settlement of insurance&nbsp;claims</li>
+	<li>due-diligence</li>
+</ul>
+
+<p><strong>Forensic accounting &amp; fraud detection</strong> is an independent and comprehensive process of reviewing financial statements to determine its accuracy. Business environment today is volatile, the perpetrators are increasingly sophisticated, also the stakeholder expectations are getting higher and along with the regulatory enforcement, the need for fraud risks are increasing.<br />
+<br />
+Our Forensic Services is the answer to help you overcome these censorious business challenges, effectively.</p>
+";s:11:"small_image";s:6:"s4.jpg";s:10:"long_image";s:18:"forensic_audit.jpg";}i:2;O:8:"stdClass":10:{s:16:"main_header_name";s:18:"Assurance Services";s:13:"sub_menu_name";s:33:" Management and Propriety Audit  ";s:10:"servise_id";s:2:"17";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"14";s:17:"short_description";s:99:"The focus of Propriety Audit is on the efficiency, the authority structure, rules and regulations..";s:11:"description";s:3633:"<p>The focus of <strong>Propriety Audit </strong>is on the efficiency, the authority structure, rules and regulations and monetary discipline as well as the protection of public interest. Propriety audit is all about the making the actions and the decisions of the executives and management of the unit or an organization.</p>
+
+<p>Propriety audit is based on the authentication of transactions in the best interest of public and normally established standards of conduct. The term &ldquo;propriety&rdquo; is defined finely to understand its purpose and end results. It says &ldquo;the &lsquo;propriety&rsquo; that meets the tests of public interest. It is standards of conduct and generally accepted customs, and mainly as valid to professional performance, necessities of government regulations and professional codes&rdquo;.</p>
+
+<p>Rather than to rely on vouchers, documents, and evidences, it shifts the importance to the essence of the transactions and looks into the aptness thereof on a consideration of financial caution, public interest, and prevention of uneconomical spending.</p>
+
+<p>Accordingly, propriety audit is concerned with study of managerial actions and resolution bearing on economic and profit and loss situation of the company with special regard to public interest and commonly accepted customs, and standards of conduct.</p>
+
+<p>Whether all the offers have worked out with the equal attention in respect of spending incurred from public money, as a person of general normal caution would implement in respect of expenses of his own money under similar circumstances.</p>
+
+<p><strong>Propriety audit needs the business involving expenses to conform to general principles as under:</strong></p>
+
+<ul>
+	<li>Expenses is not professional misconduct more than circumstance demands and all the officials work out the same level of care in respect of spending, as a person of ordinary caution would work out in regard of his own money.</li>
+	<li>The authority exercises its power of sanction to pass an order which will not directly or independently build up its own benefit.</li>
+	<li>The funds are not employed for the advantage of a particular person or a group of persons.</li>
+</ul>
+
+<p><strong>Management audit </strong>is considered about to be a course of self-governing review of the management activities at all the levels of management to determine the efficiency, functions, and attainment of the policies and modus operandi as compared to standards put by the organization. We lend a hand to the entity in self-determining examination of the procedure and operating processes approved by the organization and its observance. The Management audit depend upon auditor mind set and/or the purpose of management audit.</p>
+
+<p>As the management has big role in deciding the growth rate and about the failure or success of the company, we can call management the lifeblood of an entity. It is crucial for the organization to improve the management effectiveness and efficiency to gain competitive advantage in today business world.&nbsp;</p>
+
+<p>In today business world management play very important role for the success of failure of business. Management is the life blood of every organization. So if organization want to gain competitive advantage then it should improve their management efficiency and effectiveness.</p>
+
+<p><strong>Followings are the objectives of management audit:</strong></p>
+
+<ul>
+	<li>Review of methods</li>
+	<li>Performance appraisal</li>
+	<li>Review of policies</li>
+	<li>Review of procedures</li>
+	<li>Job rotation</li>
+</ul>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:7:"s22.jpg";s:10:"long_image";s:19:"managment_audit.jpg";}i:3;O:8:"stdClass":10:{s:16:"main_header_name";s:18:"Assurance Services";s:13:"sub_menu_name";s:26:"  Information System Audit";s:10:"servise_id";s:2:"18";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"15";s:17:"short_description";s:101:"Today, Information technology is a vital part of all the business operations. In order to operate....";s:11:"description";s:1623:"<p>Today, Information technology is a vital part of all the business operations. In order to operate, almost every part of the business relies on technology and networks. There are so many benefits of this exciting and rewarding field of <strong>information systems audit.</strong> It means that the IT audit is imperative.</p>
+
+<p>IT audit has an extremely vital and rewarding role because it allows an organization to have an apparent and truthful look at itself with an objective of how can you do things more efficiently. The information system auditor can assure management on the cost and reward of information technology and the effectiveness of the information system audit.</p>
+
+<p>The information system auditor discovers audit evidence and plans the audit. He provide audit report after exploring the audit recommendation.</p>
+
+<p>The chief intend of the Information System audit is to check for loopholes and vulnerabilities in the system and to search out how the efficiency and the productivity of the system can be improved.<br />
+Information System audit, also called a system audit is the careful and vigilant assessment and review of the management controls within an Information technology infrastructure.</p>
+
+<p>We provide a tangible Mechanism for analyzing the effectual operation of system for preferred outputs. At <strong>Parikh &amp; Associates,</strong> we assist in determining the effectiveness of the internal controls&rsquo; information system and whether or not they are working the way they should. We also support in determining any lost internal controls inside the system.</p>
+";s:11:"small_image";s:7:"s23.jpg";s:10:"long_image";s:15:"information.jpg";}i:4;O:8:"stdClass":10:{s:16:"main_header_name";s:18:"Assurance Services";s:13:"sub_menu_name";s:13:"Certification";s:10:"servise_id";s:2:"19";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"16";s:17:"short_description";s:109:"At Parikh & Associates, we provide verification services by way of certification as it may be required.......";s:11:"description";s:196:"<p>At Parikh &amp; Associates, we provide verification services by way of certification as it may be required under law for the time being in force, prerequisite of the management or others.</p>
+";s:11:"small_image";s:8:"s213.jpg";s:10:"long_image";s:15:"certificate.jpg";}i:5;O:8:"stdClass":10:{s:16:"main_header_name";s:18:"Assurance Services";s:13:"sub_menu_name";s:15:"Statutory Audit";s:10:"servise_id";s:2:"37";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"1";s:21:"header_sub_menu_fk_id";s:2:"31";s:17:"short_description";s:133:"The reason of execution of the statutory audit is to verify all the processes in which a company spends the funds and earns profits. ";s:11:"description";s:1863:"<p>The reason of execution of the <strong>statutory audit</strong> is to verify all the processes in which a company spends the funds and earns profits. The audit is also performed intending to observe the methods used for spending such money are in accordance with the laws and policies vigorously put into practice for that use. Therefore, the statutory audit is very important.</p>
+
+<p>A statutory audit is an officially required assessment that is performed to verify the overall correctness of entity&rsquo;s financial records and statements. The major intention of carrying out statutory audit is to conclude whether the entity is offering the precise and reasonable illustration of its existing financial position.</p>
+
+<p>An entity is required to report their financial position and performance at regular intervals to the various stakeholders including Shareholders, Government authorities, Bankers, etc.</p>
+
+<p>The statutory audit is carried out by strictly examining accounting information of all the financial transactions from bookkeeping records to bank balances. The leading CA firm in Ahmadabad, Parikh &amp; Associates charted accountants handle the statutory audit dexterously to make sure that all the steps that are associated with the process are performed properly.</p>
+
+<p>The statutory audit is not performed to check fraud, non-compliances, or lapses, but it is adroitly planned to help the organization to prevent misappropriation of funds and illegal activities with regular assessment of the numerous records provided by some competent third party.<br />
+<br />
+We at<strong> Parikh &amp; Associates</strong> charted accountants conduct the audit of the financial statements of an organization in line with the requirements of the statute and provide our opinion on the financial statement with its true and fair view.</p>
+";s:11:"small_image";s:7:"s31.jpg";s:10:"long_image";s:21:"statutory_audit17.jpg";}i:6;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:60:"IFRS, Ind AS, US GAAP Advisory, Implementation and Reporting";s:10:"servise_id";s:2:"20";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:1:"3";s:17:"short_description";s:111:"IFRS stands for the International Financial Reporting Standards. It is the international accounting framework..";s:11:"description";s:3195:"<p><strong>IFRS</strong> stands for the <strong>International Financial Reporting Standards</strong>. It is the international accounting framework to organize correctly as well as to report the financial information. IFRS is resultant term of the statement of the International Accounting Standards Board (IASB) based in London. At present, it is the necessary accounting framework in more than 120 countries.</p>
+
+<p>There is substantial consistency in the financial reporting of all businesses using IFRS, that makes it easier to evaluate and compare the financial results of businesses. Using the same rules, it prepares report for the financial position and financial results for the businesses barring any fraudulent manipulation.</p>
+
+<p><strong>Generally Accepted Accounting Principles (GAAP)</strong> are fundamental accounting principles and guidelines that provide the framework for comprehensive and inclusive accounting rules, standards and other industry-specific accounting practices.</p>
+
+<p>In India, <strong>financial statements</strong> are prepared on the basis of accounting standards issued by the Institute of Chartered Accountants of India (ICAI) and the law laid down in the respective applicable acts (for example, Schedule III to Companies Act, 2013 should be compulsorily followed by all companies). The ICAI also announces guidelines time to time on diverse topics to assist in the accounting process and grant clarity.</p>
+
+<p>With the growing presence of MNC's, international compliance requirements, the call for of reporting of Financial Statements has stirred towards global reporting framework.</p>
+
+<p>Where it is required, we prepare reviews and provide an analysis of reporting under International Financial Reporting Standards (IFRS), Indian Accounting Standards (Ind AS) or US GAAP. We also make sure that reporting necessities are effectively met.</p>
+
+<p>Our qualified chartered accountants hold wide-ranging practical experience in financial reporting across multiple jurisdictions and under diverse accounting frameworks (including IFRS , IND AS and US GAAP). We enthusiastically monitor new accounting rules, alert to changing requirements and provide support dealing with multifaceted accounting or reporting challenges, including the conversion to International Financial Reporting Standards (IFRS) and IND AS.</p>
+
+<p>Advisory service by <strong>Parikh & Associates</strong> is the solution to these compliance requirements of an entity. We support entity in implementation, adoption, and review of the reporting requirements.</p>
+
+<p><strong>On Financial Reporting we offer:</strong></p>
+
+<ul>
+	<li>IFRS and IND AS Conversion</li>
+	<li>guidance on Accounting Standards</li>
+	<li>organize Accounting/Finance Manuals</li>
+	<li>Accounting Assistance</li>
+	<li>Documentation, evaluation, testing of Internal Financial Controls (IFC)</li>
+	<li>Impairment testing</li>
+	<li>Fair Value Accounting</li>
+	<li>Post-merger integration of financial reporting process</li>
+	<li>Revenue Recognition Processes and Controls</li>
+	<li>Development of chart of accounts</li>
+	<li>To set up financial statements</li>
+</ul>
+
+<p> </p>
+";s:11:"small_image";s:8:"s214.jpg";s:10:"long_image";s:13:"ifrs_gars.jpg";}i:7;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:63:"Book Keeping Domestic and International Transactions Accounting";s:10:"servise_id";s:2:"21";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:2:"17";s:17:"short_description";s:119:"An elementary of accounting is based on Book keeping. Bookkeeping refers to the maintenance of daily business records..";s:11:"description";s:2027:"<p>An elementary of accounting is based on <strong>Book keeping.</strong> Book keeping refers to the maintenance of daily business records. It is the skill for recording financial transactions with the help of relevant documents and papers. Therefore, bookkeeping is a prerequisite to accounting. It is essential because:</p>
+
+<ul>
+	<li>It helps in get ready the financial statements</li>
+	<li>It present an easy perceptive of inflow and outflow mediums of cash</li>
+	<li>It alleviates the process of company audit</li>
+	<li>It is essential for future forecasting and decision-making</li>
+	<li>it helps to reduce any misconducts</li>
+</ul>
+
+<p>With the potential of supporting companies of all sizes, we help them reduce cost and improve efficiency of all the business processes. We work for small to large Indian companies as well as for overseas companies.</p>
+
+<h3>Services for monthly book keeping &amp; statutory reporting</h3>
+
+<ul>
+	<li>Monthly bank reconciliations&nbsp;&nbsp;&nbsp;</li>
+	<li>Posting general ledger together with recording of all accounting entries</li>
+	<li>Support with the issuing of sales invoices&nbsp;&nbsp;&nbsp;</li>
+	<li>Account reconciliations/intercompany reconciliations (receivables, payables)&nbsp;&nbsp;&nbsp;</li>
+	<li>Maintenance of fixed assets register&nbsp;&nbsp;&nbsp;</li>
+	<li>Maintenance of all other ledgers in the accounting software (cash, receivables, payables)&nbsp;&nbsp;&nbsp;</li>
+	<li>Travel expense calculations&nbsp;&nbsp;</li>
+</ul>
+
+<p>Our service offerings cater to a wide spectrum of clientele across the globe. So leave your accounting matters to us and free up your time for the strategic areas of your business. We work closely with you to see to your business&#39; accounting needs and maintain your accounts in a timely manner.</p>
+
+<p>We offer assured Book Keeping services of <strong>recording the Financial Transactions</strong> in order with the reporting framework as valid to the concerned client in a sophisticated way.</p>
+";s:11:"small_image";s:7:"s12.jpg";s:10:"long_image";s:16:"book_keeping.jpg";}i:8;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:22:"Regulatory Compliances";s:10:"servise_id";s:2:"22";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:2:"18";s:17:"short_description";s:97:"Regulatory compliances guarantee an entity's devotion to rules, regulations, laws and policies...";s:11:"description";s:2227:"<p><strong>Regulatory compliances</strong> guarantee an entity&#39;s devotion to rules, regulations, laws and policies. We know various laws administer an entity. We support an entity&#39;s aim to obey with relevant policies, laws, and regulations.</p>
+
+<p><strong>Parikh &amp; Associates</strong> has a dedicated team of experienced&nbsp;regulatory professionals. The team is ready to bring the dynamic approach to&nbsp;deliver the growth focused, integrated strategy to manage regulatory&nbsp;change.</p>
+
+<p>As amended rules and regulations are introduced, the business processes need to imply with more transparency with good professionalism.</p>
+
+<p>We support organizations to identify the applicable laws and regulations to better understand the&nbsp;regulatory environment. Our approach combines an analysis of the legal&nbsp;framework together with an assessment of the systems and processes.</p>
+
+<p>Regulatory Compliance Services combines industry acquaintance and regulatory competence to help management and regulators in assessing entity&#39;s compliance with pertinent rules and&nbsp;regulations.</p>
+
+<h3>How Parikh &amp; Associates helps?</h3>
+
+<ul>
+	<li>Enhance your&nbsp;capability to alleviate risk of failure and to meet regulatory requirements</li>
+	<li>Support organizations with the suite of processes policies, and explanations</li>
+	<li>Provide the best fit solutions to your specific needs</li>
+	<li>Evaluate the efficacy of present benchmarking compliance arrangements and compliance frameworks against recognized industry best practice</li>
+	<li>Help organizations plan for the longer-term goal and enhance strategic and corporate decision making</li>
+	<li>Establish programs that&nbsp; satisfy budding expectations and dogmatic requirements</li>
+	<li>Optimize processes to improve cost saving and competence</li>
+	<li>Offer compliance training to make sure organizations are attentive about the present and fresh regulatory requirements</li>
+</ul>
+
+<p>We understand regulatory requirements; keep the industry know-how to illustrate how they influences organizations. This will help organizations to channelize and plan further to develop the business.</p>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:8:"s215.jpg";s:10:"long_image";s:15:"compliances.jpg";}i:9;O:8:"stdClass":10:{s:16:"main_header_name";s:25:"Business Support Services";s:13:"sub_menu_name";s:35:"Preparation of financial statements";s:10:"servise_id";s:2:"23";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"3";s:21:"header_sub_menu_fk_id";s:2:"19";s:17:"short_description";s:122:"An entity prepares its financial statements willingly or as consent by the laws under which the entity is covered.........";s:11:"description";s:1869:"<p>An entity prepares its financial statements willingly or as consent by the laws under which the entity is covered. Financial Statements shows the wellness of an entity.</p>
+
+<p>The team of the certified accountants produces all financial statements including income statement, balance sheet, cash-flow statement following higher standards of quality for profit and non-profit oriented businesses. We are capable to provide all your financial documentation prepared precisely and on time.</p>
+
+<p>Closely controlled financial statement records make certain that your daily operations stay competent and are accomplished efficiently. <strong>Parikh &amp; Associates</strong> offers a full range of cost effective accounting services for the <strong>preparation of financial statements</strong>.</p>
+
+<p>For us the preparation of financial statements is an opportunity to connect with you with productive solutions for making the most for the good organization and wealth.</p>
+
+<p><strong>With our service for the financial statements preparation, we offer:</strong></p>
+
+<ul>
+	<li>Adjusting and closing all entries</li>
+	<li>Account keeping (monthly / quarterly / annual)</li>
+	<li>Thorough evaluation and study of the book keeping process</li>
+	<li>Together with monthly and quarterly reports, making the end of the year preparations</li>
+	<li>Financial statement study and report</li>
+	<li>To introduce the best accounting system for new businesses</li>
+</ul>
+
+<p>We at Parikh &amp; Associates always work with the latest generation tools to review and study all the figures to prepare the perfect financial report. Here, we practices the time-tested ploys deal with your original source documents.</p>
+
+<p>We assist entity in preparation of the financial statements in line with the requirements of the statute at the reporting intervals.</p>
+";s:11:"small_image";s:8:"s216.jpg";s:10:"long_image";s:18:"financial_stmt.jpg";}i:10;O:8:"stdClass":10:{s:16:"main_header_name";s:27:"Corporate advisory Services";s:13:"sub_menu_name";s:31:"Formation of companies And LLPs";s:10:"servise_id";s:2:"31";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"5";s:21:"header_sub_menu_fk_id";s:1:"4";s:17:"short_description";s:124:"The liability of partners is limited in case of an LLP whereas, partners are personally liable for debts of the business ,,,";s:11:"description";s:4065:"<h3>What is an LLP?</h3>
+
+<p><strong>Limited Liability Partnerships</strong> are normally called with their abbreviated form as <strong>LLP&rsquo;s</strong>. It is a fusion structure between a partnership firm &amp; a private limited company. In LLP&rsquo;s business is carried out in a corporate framework as per the mutually accepted partnership deed. LLP&rsquo;s are preferred when the partners are members of an institute or individual earnings are clearly defined, and distributed by dividend. Within an LLP the earnings of the members is normally seen as personal income.</p>
+
+<h3>Benefits of an LLP</h3>
+
+<p>The liability of partners is limited in case of an LLP whereas, partners are personally liable for debts of the business in a general partnership firm and even their personal property may be used to settle the firm&rsquo;s debts. Under LLP structure, partners are not responsible for negligence or misconduct of other partners, so there is protection against wrong doings of other partners in LLPs.</p>
+
+<p><strong>Here are numerous benefits: </strong></p>
+
+<ul>
+	<li>Great flexibility in business management as the operation of the partnership and distribution of profits are determined with the written agreement between the members.</li>
+	<li>One can operate the LLP with different levels of membership.</li>
+	<li>In LLP a member, can rent, lease, or buy, own property he can employ person or team, enter into contracts, and be held accountable if necessary.</li>
+	<li>LLP&rsquo;s are a separate legal entity to the members and protect member&rsquo;s personal assets from the liabilities of the business.</li>
+	<li>He can prevent another partnership or company from registering the same name by registering the LLP.</li>
+</ul>
+
+<h3>Disadvantages of an LLP</h3>
+
+<p>In some cases, it may disadvantageous.</p>
+
+<ul>
+	<li>Main disadvantage of LLPs is the Public disclosure. For the public record, the financial accounts have to be submitted and the accounts may affirm income of the members.</li>
+	<li>No flexibility to hold over profit to a future tax year, all earned profit is proficiently distributed and profit can&rsquo;t be fetch as it is in the company limited by shares.</li>
+	<li>If one member chooses to leave the partnership, the LLP will be dissolved, as an LLP require at least two members. <strong> </strong></li>
+</ul>
+
+<p><strong>How the Income Tax Act applied to LLPs?</strong></p>
+
+<p>Both general partnerships and LLPs are taxed at flat rate of 30% like partnership firms. All the other income tax act provisions are applied likewise except that general partnership firms are covered under presumptive taxation scheme.</p>
+
+<p><strong>What is the minimum capital requirement for LLPs?</strong></p>
+
+<p>There is no minimum capital requirement; LLPs can be registered even with Rs. 100 as total capital contribution.</p>
+
+<p><strong>Is there audit requirement for LLP?</strong></p>
+
+<p>If the turnover is Rs. 40 lakh or more or when the total capital contribution is Rs. 25 lakh or more, accounts of an LLP are needed to be audited.</p>
+
+<h3>Our LLP Formation Services Covers</h3>
+
+<ul>
+	<li>Government Fees (applicable upto Rs. 1 Lakh Capital Contribution by Designated Partners)</li>
+	<li>Issue of Incorporation Certificate</li>
+	<li>Drafting of LLP Deed</li>
+	<li>Stamp Duty upto Rs. 2000/- and its Notarisation in any state in India for LLP Deed</li>
+	<li>Designated Partner Identification Numbers - DPINs (2 nos.)</li>
+	<li>Digital Signature Certificates - DSCs (2 nos.)</li>
+	<li>Filing of E-forms</li>
+</ul>
+
+<h3>How It&#39;s Done</h3>
+
+<ul>
+	<li>DSC Application</li>
+	<li>Reservation of Name</li>
+	<li>Filing of LLP and DPIN application with Registrar</li>
+	<li>Registration Certificate Receipt</li>
+	<li>LLP Deed Notarisation</li>
+	<li>Application for PAN and TAN</li>
+</ul>
+
+<p>We support an individual or an entity in shaping out a Company or LLP as per the formation guidelines given under the act and making obligatory applications at suitable forum.</p>
+";s:11:"small_image";s:21:"corporate_service.jpg";s:10:"long_image";s:7:"llp.jpg";}i:11;O:8:"stdClass":10:{s:16:"main_header_name";s:27:"Corporate advisory Services";s:13:"sub_menu_name";s:20:"Due Diligence Review";s:10:"servise_id";s:2:"32";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"5";s:21:"header_sub_menu_fk_id";s:2:"25";s:17:"short_description";s:123:"Due Diligence Review (DDR) is a process in which an individual or an organization need ample information about a business..";s:11:"description";s:6815:"<p><strong>Due Diligence</strong> is generally used as the <strong>pre-investment intelligence tool</strong> by investing partners / stakeholders to obtain the advanced and independent report relating to the investee&rsquo;s credentials.</p>
+
+<p><strong>Due Diligence Review (DDR) </strong>is a process in which an individual or an organization need ample information about a business entity to attain conversant conclusion as to its importance for a specific purpose. To purchase a business is generally dependent on the <strong>due diligence analysis and report</strong>. The Due Diligence Review is to review financial and legal records including anything else supposed material to the sale.</p>
+
+<p>To get hold of of a business takes with it the numerous risks in different areas like management &amp; workforce, markets &amp; products, strategic and unrecorded liabilities, financial, legal &amp; litigation. The company gathers work plans to meet client expectations and goals to offer assurance of smooth acquisition.&nbsp;</p>
+
+<p>On the other hand, sellers could also request due diligence analysis on the buyer to get help to decide on the ability of the buyer&rsquo;s to purchase and to be aware of the factors that can play significant role in position of entity after sale.</p>
+
+<p><strong>Here are some reasons for which Due Dilligence Review is carried out:</strong></p>
+
+<ul>
+	<li>Merger</li>
+	<li>Venture Capital investment</li>
+	<li>Possible Acquisition</li>
+	<li>Giving loan for projects</li>
+</ul>
+
+<p>Due Dilligence Review is not an audit but it is much broader than audit. Therefore, DDR requires skill set and experience that go beyond conventional audit. We can consider it the business oriented, not the bookkeeping or record checking or account oriented. Due Dilligence Review need understanding of the business, its pattern, business trends and much important the risk estimation.</p>
+
+<h3>TYPES OF DUE DILIGENCE</h3>
+
+<p><strong>There are different types of DDR:</strong></p>
+
+<ul>
+	<li>Financial &amp; Accounting Due Diligence</li>
+	<li>Tax Due Diligence</li>
+	<li>Legal Due Diligence</li>
+	<li>Human Resource Due Diligence</li>
+	<li>Business/Market Due Diligence</li>
+	<li>System Due Diligence</li>
+	<li>Environment Due Diligence</li>
+	<li>Technical Due Diligence</li>
+</ul>
+
+<h3>System of DDR</h3>
+
+<p>System of DDR will depend upon the requirements of the client, time on hand and nature of review. At <strong>Parikh &amp; Associates</strong>, we follow the steps listed below:</p>
+
+<ul>
+	<li>Comprehend the requirements of the client</li>
+	<li>Decide the span and intent consequently</li>
+	<li>Get ready the list of information to be get from the client</li>
+	<li>Every so often convey the information about the status of the DDR to client</li>
+	<li>Guides about the additional actions to be taken</li>
+</ul>
+
+<h3>Range and Purpose of Due Diligence</h3>
+
+<p>We always prefer to discuss with the client the span of DDR to provide the best consultation for the DUE DILIGENCE REVIEW. It is not limited to monetary due diligence but extends to technical due diligence, systems due diligence, market due diligence, operational due diligence, legal due diligence, etc. All of these make the foundation of comprehensive DDR for the following goal.&nbsp;</p>
+
+<ul>
+	<li>Review the tax position and its connotation</li>
+	<li>To evaluate the technical and commercial practicability and source accessibility of the business&nbsp;&nbsp;</li>
+	<li>Look the synergy between the acquirer &amp; target organizations</li>
+	<li>Look into matters important to the acquirer</li>
+	<li>Evaluate the quality of administration and identify key employees of the Target Company</li>
+	<li>Get ready a post-achievement map</li>
+	<li>To ensure the agreement of essential ruling and determine the legal responsibility in the event of non-compliance</li>
+	<li>To settle the cost of the acquirement or a monetary investment</li>
+	<li>Review the hyped assets or under-recorded accountability, hidden assets or responsibility</li>
+	<li>Provide value added information about the target&rsquo;s business.</li>
+</ul>
+
+<h3>Operation</h3>
+
+<p>The operations for DDR are depend upon the nature of the goal and span define by the client. At the time, level of the comfort and the structure of the acquisition decided.</p>
+
+<p><strong>The proper lines of actions are as follows:</strong></p>
+
+<ul>
+	<li>Program is designed identifing business purpose of the acquisition</li>
+	<li>Specify decisive goals and objectives</li>
+	<li>Indicate imperative business units and procedures.</li>
+	<li>The group of persons comprises of individuals with the apt blend of experience and professionalism for the task.</li>
+	<li>The schedule for completing each process is framed by experts</li>
+	<li>Documents are produced and get ready</li>
+	<li>A structure is formed to take the follow up on open issues</li>
+	<li>Specific criteria are established about the types and process of the formation to be obtained</li>
+	<li>List of information, which and what is to be collected</li>
+	<li>Decide way of work to collect the information</li>
+	<li>Realistic approach is followed for the received documents, conversations over it and documents and analysis performed.</li>
+</ul>
+
+<h3>Alleviate involved risk</h3>
+
+<p>The experts working for the DDR know the intrinsic risk and are prepared to face the compensation of the resulting loss, if any. The team assures for the following matters:</p>
+
+<ul>
+	<li>Apt understanding of the goals for the project before accepting the project and deciding the scope</li>
+	<li>Review of other DDR reports examine the copy of the same from the client</li>
+	<li>Hold meetings with the other reviewers</li>
+	<li>Disclose the scope and limits of the assignment in the DDR Report</li>
+</ul>
+
+<h3>&nbsp;Due Diligence Solutions</h3>
+
+<p>&nbsp;The expert team at Parikh &amp; Associates&nbsp; works to avoid risk and take undertakings from authorities that encompass as follows:&nbsp;</p>
+
+<ul>
+	<li>Employee benefit plans</li>
+	<li>Contingent liabilities</li>
+	<li>Product, service warranties, damages, and other claims</li>
+	<li>Intellectual properties&rsquo; Registration</li>
+	<li>Recover ability of all present assets</li>
+	<li>Non-contravention of contracts terms, regulation, and loan covenants</li>
+	<li>Titles &amp; ownership</li>
+	<li>Different Governments&rsquo; consents/licenses.</li>
+	<li>Accuracy and totality of all given information&nbsp;</li>
+	<li>Litigation, appeals, etc</li>
+</ul>
+
+<p>At <strong>Parikh &amp; Associates,</strong> we offer services to bankers, Investors, and acquirers who rely on Due Diligence as a standard of support for the duration of Mergers and Acquisitions.</p>
+";s:11:"small_image";s:21:"corporate_service.jpg";s:10:"long_image";s:14:"Dilligence.jpg";}i:12;O:8:"stdClass":10:{s:16:"main_header_name";s:27:"Corporate advisory Services";s:13:"sub_menu_name";s:61:"Designing and Implementation of Standard Operating Procedures";s:10:"servise_id";s:2:"34";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"5";s:21:"header_sub_menu_fk_id";s:2:"27";s:17:"short_description";s:93:"The operations for DDR are depend upon the nature of the goal and span define by the client. ";s:11:"description";s:3505:"<h3>What is a Standard Operating Procedure (SOP)?</h3>
+
+<p>For an entity to be motivated with a regular purpose of business growth need efficient compliance of internal controls and procedures. Every entity runs with a distinct set of protocols. A Standard Operating Procedure (SOP) is a set of written instructions that document a custom or recurring activity that is followed by employees in an organization.</p>
+
+<p>An SOP, in reality, defines predictable practices in all businesses in which the quality standards exist. SOPs play key role in the small businesses. SOPs are all about the procedures, policies and standards one needs to imply the way of working in the marketing, administration and operation within your business to make certain the business goals.</p>
+
+<p>These days many big organizations take help of the professional firms in preparing the operational procedural manual for their company in order to attain their imperative objective to utilize the accessible resources in the best possible manner. AtParikh &amp; associates , we also offer similar services to Design and accomplish the Standard Operating Procedures.</p>
+
+<p>The process is being the strong and sturdy</p>
+
+<p><strong>The process helps to create:</strong></p>
+
+<ul>
+	<li>develops troubleshooting approach that allows required focus on solving the problem</li>
+	<li>efficiencies and consequently the profitability</li>
+	<li>effective roadmap for the resolution of issues</li>
+	<li>protection of employers in areas of potential responsibility and personnel matters</li>
+	<li>steadiness and dependability in production and service</li>
+	<li>whether it be by a regulatory body or a partner, become first line of defense in any assessment</li>
+	<li>smaller number of errors in all business areas</li>
+	<li>a way to resolve conflicts between partners</li>
+	<li>safe and healthy working environment</li>
+</ul>
+
+<p>Every business contains a sole market. Every entrepreneur works with unique style for leadership and every industry possesses its own practices. No two businesses can have the alike set of SOPs.</p>
+
+<p>Here few typical SOPs&rsquo; list we are working for:</p>
+
+<h3>Administration &amp; Finance</h3>
+
+<ul>
+	<li>Accounts payable process &ndash; Capitalize on cash flow whereas meeting all payment deadlines</li>
+	<li>Accounts receivable &ndash; billing and collections process</li>
+	<li>Sales, Marketing &amp; Customer Service</li>
+	<li>Approval of external communications: press releases, social media, advert, etc.</li>
+	<li>Delivery process for service with response times</li>
+	<li>Policies for exchange, refund, warranty, guarantee</li>
+	<li>Recognition &amp; resolution of complaints, customer suggestions and comments,</li>
+</ul>
+
+<p>Production/Operations</p>
+
+<ul>
+	<li>Production line objectives</li>
+	<li>Process for the Equipment maintenance</li>
+	<li>Procedures for the inspection</li>
+	<li>Training to staff</li>
+</ul>
+
+<h3>Staff Employment</h3>
+
+<ul>
+	<li>work descriptions</li>
+	<li>appraisal for performance</li>
+	<li>Internet and social media usage for business purposes</li>
+	<li>corrective action and discipline making</li>
+	<li>employee orientation training</li>
+</ul>
+
+<p>The growth and exercise of SOPs are an integral part of a victorious value-added system. At Parikh &amp; Associates we support the enterprise in designing, implementing and reviewing the Standard Operating Procedures at entity level.</p>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:9:"s2113.jpg";s:10:"long_image";s:13:"operation.jpg";}i:13;O:8:"stdClass":10:{s:16:"main_header_name";s:27:"Corporate advisory Services";s:13:"sub_menu_name";s:35:"Designing the Risk Control Matrices";s:10:"servise_id";s:2:"35";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"5";s:21:"header_sub_menu_fk_id";s:2:"28";s:17:"short_description";s:116:"An entity deploys the risk assessment matrix to gauge the extent of a risk and to conclude whether they have apt....";s:11:"description";s:3568:"<p>An entity deploys the risk assessment matrix to gauge the extent of a risk and to conclude whether they have apt controls or strategies to alleviate the risk. The span for a risk assessment matrix differs extensively. The exercise may recognize risks at the business process, enterprise, or individual project level.</p>
+
+<p>Different risks, at both levels, process level and financial statement level evaluate together with the controls relevant against the same, can be documented in the form of a RCM. It is a complete document, which captures at one place, for each business cycle.</p>
+
+<p><strong>Here are several points to be discussed.</strong></p>
+
+<ul>
+	<li>The risks of material misstatement including the fraud risks and any other noteworthy risks that must be individually identified.</li>
+	<li>The account balances affected against each of the risks recognized.</li>
+	<li>The financial statement declaration that are made for each of the listed risks and accounts balances.</li>
+	<li>The controls that are related to the each of the risks and assertions. A control may address more than one risk or assertion.</li>
+	<li>The promptness of the control.</li>
+	<li>Testing and reporting on the control and the document(s) that need to be prepared to evidence the exercise of the control.</li>
+</ul>
+
+<p><strong>Here are the illustrative formats of the Risk control matrix that shows the way of work we employ:</strong></p>
+
+<ul>
+	<li>Risk (what may go wrong?)</li>
+	<li>Account balances affected</li>
+	<li>Manual/Automated control</li>
+	<li>Control type preventive/detective</li>
+	<li>Explanation of control activity</li>
+</ul>
+
+<p>It should also address the liability, regularity, and documentary evidence. The frequency is needed to shown them separately.&nbsp;</p>
+
+<p>Here are some of the general business cycles for which the separate RCMs could be prepared depending upon the nature of the business of entity and the materiality of the meticulous process.&nbsp;</p>
+
+<p><strong>Monetary Closing and Reporting</strong></p>
+
+<ul>
+	<li>Payroll</li>
+	<li>fixed assets and depreciation</li>
+	<li>Cash and Bank</li>
+	<li>Lending</li>
+	<li>Borrowing</li>
+	<li>Procure to Pay (Purchase /Expenses and Accounts Payables)</li>
+	<li>Bill to collect (Revenue and Receivables)</li>
+	<li>Treasury</li>
+	<li>Taxation</li>
+	<li>Deposits</li>
+	<li>Derivatives</li>
+</ul>
+
+<p>Preparation of a RCM is nothing but the documentation method for the Internal Control Framework and help in reporting on the working efficiency of Internal Financial Controls.&nbsp;&nbsp;&nbsp;</p>
+
+<p>The significant part is to understand the interaction between the business cycles and the related activities or processes and the account balances affecting the same, to the degree it affects the financial reporting. Finally, the RCM also assists to recognize controls which are relevant and not relevant.</p>
+
+<p>When the preparation of the same is suggested by the management as a part of its evaluation of the design and operating effectiveness of the controls for Board Reporting, in terms of Section 134(5 (e)&nbsp; of the companies Act, 2013.</p>
+
+<p>It can use the same to evaluate the operating effectiveness of Internal Financial Controls over Financial Reporting. We put a system to sporadically test the efficiency of the noteworthy controls identified in the RCMs.</p>
+
+<p>We support the enterprise in increasing and designing the risk control matrices and put into practice the controls to talk to the identified risks.</p>
+";s:11:"small_image";s:7:"s15.jpg";s:10:"long_image";s:16:"risk_control.jpg";}i:14;O:8:"stdClass":10:{s:16:"main_header_name";s:27:"Corporate advisory Services";s:13:"sub_menu_name";s:22:"Management consultancy";s:10:"servise_id";s:2:"36";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"5";s:21:"header_sub_menu_fk_id";s:2:"29";s:17:"short_description";s:95:"Management consulting is the practice of helping organizations to improve their performance. ";s:11:"description";s:3904:"<p><strong>Management consulting&nbsp;</strong>is the practice of helping organizations to improve their performance.&nbsp;The Management Consultancy services at the Parikh &amp; Associates covers following major areas.</p>
+
+<ul>
+	<li>Development and Implementation of Accounting System</li>
+	<li>Accounting Process enhancement</li>
+	<li>Feasibility Study</li>
+	<li>Valuation of Shares and Securities</li>
+</ul>
+
+<h3>Development and Implementation of Accounting System</h3>
+
+<p>We work with organizations to design, develop, and implement accounting system solutions. Our development and implementation solutions allow our clients to put into practice correct internal controls and automate process of data capturing and reporting.</p>
+
+<p>We own first-rate resources in virtually all the business areas. This capability permit us to offer better-quality services in customized Financial System development for owner-managed businesses, Small and medium enterprises (SME&#39;s) as well as for a large multinational corporation.</p>
+
+<p>Owing to competitive economic climate, many organizations are searching for different ways to cut costs. We by implementing the best possible financial and accounting system solution help them to cut irrelevant costs and hence increase efficiency. By helping and directing the enterprises in implying novel technology and making the ideal integration with the existing resources, we help our clients restructure their processes and control the critical data.</p>
+
+<p>We also provide very useful training and enduring assistance for our clients in the design and implementation of accounting systems. Years of experience for working with computer-based financial and accounting systems collectively with our cumulative knowledge of accounting software at present available, permit us to help you save the time and effort required to sort out the systems and products you require.<br />
+We are a team of young and dynamic professionals, who can cater the needs of enterprise requiring professional backing.</p>
+
+<h3>Accounting Process enhancement</h3>
+
+<p>Proper involvement of the accounting resources is a way to imply the improved Accounting Process. At Parikh &amp; Associates, we offer Accounting Process Improvement and help you to reconfigure your internal processes in an assortment of effective ways. It is all about to change the way to performs accounting processes and by that meet decision making objectives in a competent and timely manner.</p>
+
+<p><strong>It needs different </strong>kinds of efforts involving process redesign, strategic technical inputs, and training. We also help you with this process in deployment of new technology to facilitate the improvement of accounting process.</p>
+
+<h3>Feasibility Study</h3>
+
+<p>A&nbsp;<strong>feasibility study</strong>&nbsp;is an&nbsp;<strong>analysis</strong>&nbsp;that takes all of a&nbsp;<strong>project&#39;s</strong>&nbsp;relevant factors into account&mdash;including economic, technical, legal, and scheduling considerations&mdash;to ascertain the likelihood of completing the&nbsp;<strong>project</strong>&nbsp;successfully. Apart from these, we also assist management in making critical decisions such as make or buy, manufacture or sub-contract, purchase or lease, etc.</p>
+
+<h3>Valuation of Shares and Securities</h3>
+
+<p>Valuation of shares and securities are mandated under various statutes such as Income Tax Act, Companies Act, etc. At times, management voluntarily also requires to do valuation of shares and securities. Instances where such valuation is required are</p>
+
+<ul>
+	<li>Issue of new Shares and securities</li>
+	<li>Transfer of Shares and securities amongs shareholders</li>
+	<li>Share Buy back</li>
+	<li>Issue of Bonus, ESOP, Sweat equity shares</li>
+	<li>Corporate Restructuring</li>
+	<li>Amalgamation, Merger and Demerger</li>
+</ul>
+";s:11:"small_image";s:7:"s16.jpg";s:10:"long_image";s:13:"mangement.jpg";}i:15;O:8:"stdClass":10:{s:16:"main_header_name";s:27:"Corporate advisory Services";s:13:"sub_menu_name";s:17:"Project Financing";s:10:"servise_id";s:2:"38";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"5";s:21:"header_sub_menu_fk_id";s:2:"30";s:17:"short_description";s:159:"The viability of fund, it’s planning, the method of increasing the fund and its repayment are some of the critical points to be taken care by the enterprise.";s:11:"description";s:2749:"<p>The viability of fund, it&rsquo;s planning, the method of increasing the fund and its repayment are some of the critical points to be taken care by the enterprise. Fund is the basic require of any business. An enterprise needs fund at different business levels.</p>
+
+<p>Project financing may be large in size or may be very complex in structure. Because of our strong foundation in the areas of commerce and economics, at Parikh &amp; associates, we accomplish high quality industry research and analysis. This helps us in realistically evaluating the risks connected with any project financing deal being evaluated.</p>
+
+<p>Whether it is about the transportation facilities or other major infrastructure, our experienced, multidisciplinary team proficiently and successfully gets the deal done&nbsp;</p>
+
+<p>We know the industries in which our clients operate and we understand the diverse issues and concerns of each of the parties involved. We know the unique impact of our industrial know how on the decision and its economic aspects. We navigate all of the unique perspectives, approvals, and require reaching agreement on all issues and completing the transaction.</p>
+
+<p>We work on large or complex projects. Our team endeavor to bring together the multiple entities that operate under diverse regulatory requirements. The organizations may have different goals and issues to ownership. They may access capital from different sources. The expert legal team at Parikh &amp; Associates handles wisely the complexity of the deals and carefully addresses the individual strategic priorities.</p>
+
+<p><strong>Our Project Financing Services involve:</strong></p>
+
+<ul>
+	<li>Home Loans</li>
+	<li>Machinery Loan</li>
+	<li>Loan Against Property</li>
+	<li>Loan arrangement- Cash Credit Limit, Term Loan &amp; Project Loan</li>
+	<li>Working Capital Proposals (CC/LC/BG)</li>
+	<li>Term Loans</li>
+	<li>Project Report Preparation</li>
+	<li>OD limits</li>
+</ul>
+
+<p>The cautious&nbsp;<strong>Financial Structuring</strong>&nbsp;is the significant part of business planning. To locate the cost effectively and to operate the best-suited sources of finance for your project is our strength. We also deal with <strong>Trade Finance</strong>,&nbsp;<strong>Short or Long Term funds</strong>,&nbsp;<strong>Equipment Finance</strong>,<strong>&nbsp;Structured Finance</strong>&nbsp;as well as any other products finance.</p>
+
+<p>We assist our clients in raising funds from Banks and Financial Institutions. We also manage for them the Private Funds. Thus, we handle the entire transaction for them the beneficial way.</p>
+
+<p>We know the industries in which our clients operate and we understand the diverse issues and concerns</p>
+";s:11:"small_image";s:6:"s4.jpg";s:10:"long_image";s:20:"project_finacial.jpg";}i:16;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:30:"Applications and Registrations";s:10:"servise_id";s:2:"25";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:1:"5";s:17:"short_description";s:124:"Organizations, from lower market to the multinational firms are open to the elements to changing trends in tax regulations..";s:11:"description";s:793:"<p>Organizations, from lower market to the multinational firms are open to the elements to changing trends in tax regulations. Approach to tax is changing. Tax decisions are under amendment like never before.</p>
+
+<p>In this scenario, specialist advice and services are needed for the large corporate groups in order to manage their tax obligations. They are involved in knotty transactions and typically have atypical structures. Furthermore, there are exceptional tax rules that speak about expressly to corporations and corporate groups.</p>
+
+<p>Parikh &amp; Associates owns a dedicated team, specially developed for each area of tax practice, bearing in mind the requirements of diverse skill levels and outlook. We follow the practical approach in tax services.</p>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:12:"taxation.jpg";s:10:"long_image";s:15:"application.jpg";}i:17;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:31:"Compliances And Return Fillings";s:10:"servise_id";s:2:"26";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:2:"22";s:17:"short_description";s:112:"Indian tax law needs the strategic approach and a spectrum of ploys so that you are well placed for tax savings,";s:11:"description";s:4375:"<p>Indian tax law needs the strategic approach and a spectrum of ploys so that you are well placed for tax savings.</p>
+
+<p><strong>You can have our services as follow:</strong></p>
+
+<ul>
+	<li>Replying to a range of Income Tax Notices</li>
+	<li>Attaining incorrect demand removed and getting refunds, if any</li>
+	<li>Personal Tax Compliances &ndash; Compiling and filing of Tax return</li>
+	<li>Tax Implication on every transaction which involve Income element</li>
+	<li>Advance tax calculations and deposit on quarterly basis</li>
+	<li>Deposit of self-assessment tax and tax on regular assessments etc.</li>
+</ul>
+
+<h3>Compliance services</h3>
+
+<ul>
+	<li>Assistance in obtaining registrations under GST or other statutory legislations as required</li>
+	<li>Review of periodic computation of tax liabilities</li>
+	<li>File obligatory legal applications with diverse authorities</li>
+	<li>Authentication of input tax credit records</li>
+	<li>Identification of ineligible credits</li>
+	<li>Assistance in preparing and filing periodic return(s)</li>
+	<li>Provide GSP/ASP solutions for seamless execution of monthly compliances</li>
+</ul>
+
+<h3>Return Filling</h3>
+
+<p>The majority of the indirect taxes - for which returns were filed independently for different businesses - have been subsumed. It is one of the important aspects and aims after introducing GST in India. These days, whether one is a manufacturer, trader, reseller, or service provider, he/she needs to file GST returns online in India, in the approved formats.</p>
+
+<p>There are 19 GST return forms Under GST that the tax payers use to file GST returns online. All these forms are needed to be e-filed as per the GST return filing procedure laid down in the GST return rules section of the GST Act.</p>
+
+<p>Irrespective of profitability, sale and business activity, during the return filing period, GST return filing is compulsory for all organizations having GST registration. Therefore, even an inactive business that obtained GST registration must file GST return. All entities having GST registration are needed to file GST returns, as per the due date schedule for the GST return. Parikh &amp; Associates provides apt GST return filing service in Ahmedabad.</p>
+
+<p>The normal time to file a GST return is about 1 - 3 working days, subject to government processing time and client document submission.</p>
+
+<p><strong>GST registration holders are required to file business details as following:</strong></p>
+
+<ul>
+	<li>GSTR-1 (details of outward supplies) on the 10th of each month,</li>
+	<li>GSTR-2A (details of inward supplies) on the 15th of each month</li>
+	<li>GSTR-3B (monthly return) on the 20th of each month. Due to GSTN Technical glitches now GSTR 3B&nbsp;due dates are staggered manner where due dates are as follows.&nbsp;</li>
+</ul>
+
+<ol>
+	<li>20th for persons whose Annual turnover in previous finacial year is more than 5 crore.</li>
+	<li>22nd for Gujart Chhattisgarh, Madhya Pradesh, Daman and Diu, Dadra and Nagar Haveli, Maharashtra, Karnataka, Goa, Lakshadweep, Kerala, Tamil Nadu, Puducherry, Andaman and Nicobar Islands, Telangana and Andhra Pradesh for persons whose aggregate turnover during previous year is less than Rs. 5 Crore (i.e. for small &amp; medium size taxpayers).</li>
+	<li>24th for Jammu and Kashmir, Ladakh, Himachal Pradesh, Punjab, Chandigarh, Uttarakhand, Haryana, Delhi, Rajasthan, Uttar Pradesh, Bihar, Sikkim, Arunachal Pradesh, Nagaland, Manipur, Mizoram, Tripura, Meghalaya, Assam, West Bengal, Jharkhand and Odisha&nbsp; for persons whose aggregate turnover during previous year is less than Rs. 5 Crore (i.e. for small &amp; medium size taxpayers).</li>
+</ol>
+
+<ul>
+	<li>Dealers registered under the GST composition scheme are required to file GSTR-4 Annualy, on 18th of the month next to the quarter need to pay tax by filling CMP -08.</li>
+	<li>The annual GST return is to be filed by all GST registered entities on/before the 31st of December.</li>
+</ul>
+
+<p>Parikh &amp; Associates is an experienced team of professional service provider providing timely and accurate Routine Compliance &amp; Return Filling services</p>
+
+<p>We provide assistance in compliance procedure adhering to Income Tax and Goods and Service Tax provisions including return filling under relevant Act.</p>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:8:"s217.jpg";s:10:"long_image";s:10:"return.jpg";}i:18;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:13:" Tax advisory";s:10:"servise_id";s:2:"27";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:2:"23";s:17:"short_description";s:109:"Parikh & Associates one of the leading tax advisory companies in Ahmedabad specializing in tax consultancy...";s:11:"description";s:1251:"<p>Parikh &amp; Associates one of the leading tax advisory companies in Ahmedabad specializing in tax consultancy. We provide stepwise guidance for the pre and post introduction of GST. We understand the rules of competition and set high standards for optimizing their company. With the clear, diagnostic look at each scrupulous situation, we identify solutions and suggest apt options that our clients may consider for the economical growth of the company.</p>
+
+<p>GST impacts tax computation, compliance, tax structure and tax payment. It is also considered as the key factor that may control the tax incidences across the nation. It also influences the credit utilization and reporting along with influencing each facet of business operations including pricing of products and services.</p>
+
+<p>We help businesses in looking forward to change in policy and reviewing impact on their operations. We offer an inventory of specialized GST advisory services to our clients which involves analyzing its impact on their business. We also offer service like situation analysis together with transition management, legislative business level implementation assistance, undertaking key compliances and alternative business models.</p>
+
+<p>&nbsp;</p>
+";s:11:"small_image";s:8:"s218.jpg";s:10:"long_image";s:16:"tax_advisory.jpg";}i:19;O:8:"stdClass":10:{s:16:"main_header_name";s:8:"Taxation";s:13:"sub_menu_name";s:6:"Audits";s:10:"servise_id";s:2:"28";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"6";s:21:"header_sub_menu_fk_id";s:2:"24";s:17:"short_description";s:121:"We advise on planning of all the income tax related issues relating to Direct tax. We also provide services in relation..";s:11:"description";s:1483:"<p>We advise on planning of all the income tax related issues relating to Direct tax. We also provide services in relation to Auditing under Incometax Act and the regulatory framework and issung report in prescribed formats.</p>
+
+<p>These services involve evaluation of tax implications on present or proposed business transactions.</p>
+
+<p>In order to discover the GST impact, from the viewpoint of Procurement, Manufacturing, and Distribution, our experienced team review contracts and agreements.</p>
+
+<p>We provide support to meet the terms with the provisions of anti-profiteering rules under GST. We also tender support in recognizing the best possible valuation model for the linked party transactions under GST, while line up the same with the model accepted under transfer pricing provisions. It also evaluates the legal positions approved and put forward the changes, if any, under the GST regime.</p>
+
+<p>You can have the guidance on matters pertaining to import and export of goods into/from India under the Customs Act, 1962. We refer the Customs Valuation-related matters with regards to import from related parties.</p>
+
+<p>At, Parikh &amp; associates, You can avail the prolific guidance on diverse incentive schemes pertaining to duty-free import/export of goods or services under the Foreign Trade Policy. We are knowledgeable team for the foreign trade policy and its related export benefits. We are serving on FTP guidance and associated benefits.</p>
+";s:11:"small_image";s:8:"s219.jpg";s:10:"long_image";s:12:"auditing.jpg";}i:20;O:8:"stdClass":10:{s:16:"main_header_name";s:4:"RERA";s:13:"sub_menu_name";s:36:"Registration of Real Estate Project ";s:10:"servise_id";s:2:"29";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"7";s:21:"header_sub_menu_fk_id";s:1:"2";s:17:"short_description";s:125:"RERDA’s Section 3 forbids Sale or Marketing of a Real Estate Project without registration with RERA. Without registering...";s:11:"description";s:1004:"<p>RERDA&rsquo;s Section 3 forbids Sale or Marketing of a Real Estate Project without registration with RERA. Without registering the real estate project with the Real Estate Regulatory Authority established under this Act any plot, apartment or building, in any real estate project or part of it in any planning area and the promoter is not allow to book, sell, advertise or market it. He cannot ask persons to purchase or sell it any way.</p>
+
+<p>We assist in diverse registration facilities under RERA Act such as Registration of Builder,Developer ,Society, Holder of power of attorny, Agents etc.</p>
+
+<p><strong>Our services under Real Estate Project Registration as per RERA Act are as follows:</strong></p>
+
+<ul>
+	<li>Consultation and conversation</li>
+	<li>Sign off of Assignments</li>
+	<li>Document Collection</li>
+	<li>Collection of Details regarding Project and promoters</li>
+	<li>Legalization of documents &amp; details</li>
+	<li>Filing the registration application</li>
+</ul>
+";s:11:"small_image";s:8:"rera.jpg";s:10:"long_image";s:14:"regiration.jpg";}i:21;O:8:"stdClass":10:{s:16:"main_header_name";s:4:"RERA";s:13:"sub_menu_name";s:59:"Registration Attestation Including Audit  And Certification";s:10:"servise_id";s:2:"30";s:9:"on_screen";s:1:"Y";s:17:"header_manu_fk_id";s:1:"7";s:21:"header_sub_menu_fk_id";s:1:"6";s:17:"short_description";s:111:"The commencement of RERA is aimed to bring to an end the misconduct of the builders mollycoddle the facilities.";s:11:"description";s:1680:"<p>The commencement of <strong>RERA </strong>is aimed to bring to an end the misconduct of the builders mollycoddle the facilities. As per the Section 4(2) of the RERA, it is compulsory the amounts from the separate bank account (in which 70% of the amounts apprehended to cover the cost of construction and the land cost for the real estate project from time to time from the allottees, and shall be used only for that reason) shall be withdrawn by the promoter after it is certified by the professionals.</p>
+
+<ul>
+	<li>Consultancy regarding RERA compliances</li>
+	<li>Managing fund in accordance with Section 4(2)(1)(D) Of The Act</li>
+	<li>Issuing certificate of withdrawal for Specific Bank Account under RERA</li>
+	<li>Ensuring groundwork and upholding of books, accounts, documents, and records as per the Act.</li>
+	<li>Drafting Allotment Letter, Brochure, Agreement to Sale and Sale Deed in accordance with the REAL ESTATE (REGULATION AND DEVELOPMENT) ACT, 2016.</li>
+	<li>Filing Quarterly update with RERA</li>
+	<li>Audit of Accounts in harmony with Section 4(2)(1)(D) Of The Act and filing with the RERA</li>
+</ul>
+
+<p>The team of Chartered Accountants at Parikh &amp; Associates owns the paramount legal and financial knowledge. It can help builders &amp; developers to equip themselves &amp; better organize themselves meet the terms of the act RERA with the best service for the <strong>ATTESTATION INCLUDING AUDIT AND CERTIFICATION.</strong> It provides services in attestation function relating to requirements of Form 5 and Form 3&nbsp;With the best in category services, it also supports them in facing the aggressive competition in the sector.</p>
+";s:11:"small_image";s:7:"s24.jpg";s:10:"long_image";s:9:"rera2.jpg";}}slider_data|a:5:{i:0;O:8:"stdClass":5:{s:9:"slider_id";s:1:"1";s:9:"on_screen";s:1:"Y";s:12:"slider_title";s:18:"Assurance Services";s:11:"description";s:181:"Our endeavor is to handhold you right from addressing your key business concerns, helping you comply with Regulatory norms & Enhancing overall effectiveness of corporate governance.";s:10:"slider_img";s:11:"slider1.jpg";}i:1;O:8:"stdClass":5:{s:9:"slider_id";s:1:"2";s:9:"on_screen";s:1:"Y";s:12:"slider_title";s:24:"Business Support Service";s:11:"description";s:127:"A range of business financial services, from auditing the expenses to Identifying compliance gaps to suggest Unbeaten Measures.";s:10:"slider_img";s:11:"slider2.jpg";}i:2;O:8:"stdClass":5:{s:9:"slider_id";s:1:"3";s:9:"on_screen";s:1:"Y";s:12:"slider_title";s:26:"Corporate advisory Service";s:11:"description";s:134:"We help enhancing the enterprise value by dealing with the complex business environment & enabling them to take progressive decisions.";s:10:"slider_img";s:11:"slider3.jpg";}i:3;O:8:"stdClass":5:{s:9:"slider_id";s:1:"4";s:9:"on_screen";s:1:"Y";s:12:"slider_title";s:8:"Taxation";s:11:"description";s:124:"Precise, Proficient and Approachable taxation services to the Business Community and all the Taxpayers on a Sustained Basis.";s:10:"slider_img";s:11:"slider4.jpg";}i:4;O:8:"stdClass":5:{s:9:"slider_id";s:1:"5";s:9:"on_screen";s:1:"Y";s:12:"slider_title";s:4:"RERA";s:11:"description";s:116:"Infuse Transparency, Ensure Fair-play, We work to Ensure Accountability Towards Allotted and Protect their Interest.";s:10:"slider_img";s:11:"slider5.jpg";}}
